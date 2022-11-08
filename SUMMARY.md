@@ -5,3 +5,4 @@
 * [XYLO ALL IN ONE GUIDE](xylo-all-in-one-guide.md)
 * [Get Starded](get-starded.md)
 * [Concepts](concepts.md)
+* [Use XYLO](use-xylo.md)
