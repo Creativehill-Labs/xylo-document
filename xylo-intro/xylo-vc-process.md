@@ -18,7 +18,9 @@ Project teams wishing to receive investment may publish a proposal by tagging th
 At the initial stage of the service, the XYLO investment team introduces the projects selected for investment pre-screening and process the screening.
 {% endhint %}
 
-| Items                 | Contents               |
-| --------------------- | ---------------------- |
-|  Project Introduction | Gitbook or White paper |
-|                       |                        |
+| Items                 | Contents                                                                                                                                           |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Introduction  | <ul><li>Gitbook or White paper</li></ul>                                                                                                           |
+| Project Information   | <ul><li>Representative, establishment date, location, corporate registration number(optional)</li><li>Team's career or main work history</li></ul> |
+| Communication Channel | <ul><li>Official Website</li></ul>                                                                                                                 |
+|                       |                                                                                                                                                    |
