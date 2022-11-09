@@ -25,3 +25,12 @@
 
 * [Use Forum](forum/use-forum.md)
 * [FAQ](forum/faq.md)
+
+## 🪙 TOKENOMICS
+
+* [TOKEN 1](tokenomics/token-1.md)
+* [TOKEN 2](tokenomics/token-2.md)
+
+## LINK
+
+* [Page 1](link/page-1.md)
