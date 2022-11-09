@@ -6,3 +6,4 @@
 * [Get Starded](get-starded.md)
 * [Concepts](concepts.md)
 * [Use XYLO](use-xylo.md)
+* [Use Bridge](use-bridge.md)
