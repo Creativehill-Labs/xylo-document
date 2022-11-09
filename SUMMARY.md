@@ -6,5 +6,9 @@
 * [Get Starded](get-starded.md)
 * [Concepts](concepts.md)
 * [Use XYLO](use-xylo.md)
-* [Use Bridge](use-bridge.md)
-* [Bridge large amount conversion](bridge-large-amount-conversion.md)
+
+## 🌉 BRIDGE
+
+* [Page 1](bridge/page-1.md)
+* [Bridge large amount conversion](bridge/bridge-large-amount-conversion.md)
+* [FAQ](bridge/faq.md)
