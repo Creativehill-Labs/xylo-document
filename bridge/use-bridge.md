@@ -172,6 +172,10 @@ Timeout or fail to convert in the wallet connected to the To chain. Click the Re
 {% endtab %}
 {% endtabs %}
 
-In case of conversion failure Conversion failed when using the Bridge In case of conversion failure or unexpected error when using the Bridge, you can check all your KOK conversion history in the History menu.&#x20;
+### In case of conversion failure&#x20;
+
+#### Conversion failed when using the Bridge&#x20;
+
+In case of conversion failure or unexpected error when using the Bridge, you can check all your KOK conversion history in the History menu.&#x20;
 
 You can proceed confirmation by clicking Confirm button in the History. In addition, you can get a refund 48 hours after Confirm button appears.
