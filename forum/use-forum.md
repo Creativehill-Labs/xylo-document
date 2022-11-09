@@ -1,18 +1,48 @@
 # Use Forum
 
-What is XYLO Forum?&#x20;
+## What is XYLO Forum?&#x20;
 
-Community for communication of all users who use XYLO&#x20;
+#### Community for communication of all users who use XYLO&#x20;
 
-XYLO FORUM is your free channel of communication. XYLO Forum is a place for various communication and debates and provides information of SO for growth of XYLO. Forum also plays an important role as pre-screening community of XYLO Community Pool investment to various crypto projects with potential and technology. Anyone who is a member of XYLO can join and sign in with K STADIUM APP ID through webpage and mobile web.
+XYLO FORUM is your free channel of communication.&#x20;
 
-Categories GENERAL GENERAL category is a board providing guide to the community and your free channel of communication. Governance & Proposal Governance & Proposal posts for preliminary screening will be uploaded. The initial posting is done by the Investment Management Team. Stadium Owner Stadium Owner provides guidance on SO and communication channels for each SO group. This category allows SO and SOM to create posts and supports free discussion among SO groups under respective posts.
+XYLO Forum is a place for various communication and debates and provides information of SO for growth of XYLO. Forum also plays an important role as pre-screening community of XYLO Community Pool investment to various crypto projects with potential and technology.&#x20;
 
-How to sign in XYLO Forum uses XYLO app ID. Please sign up in K STADIUM to use Forum. Go to XYLO forum. Click Sign in button. Enter your XYLO ID and PW. Click SIGN IN. (Email authorization is needed for the first time.) Sign in completed. If sign in failure persists, please inquire through our XYLO Help Center.
+Anyone who is a member of XYLO can join and sign in with K STADIUM APP ID through webpage and mobile web.
+
+## Categories&#x20;
+
+#### GENERAL&#x20;
+
+GENERAL category is a board providing guide to the community and your free channel of communication.&#x20;
+
+#### Governance & Proposal&#x20;
+
+Governance & Proposal posts for preliminary screening will be uploaded. The initial posting is done by the Investment Management Team.&#x20;
+
+#### Stadium Owner&#x20;
+
+Stadium Owner provides guidance on SO and communication channels for each SO group. This category allows SO and SOM to create posts and supports free discussion among SO groups under respective posts.
+
+#### How to sign in&#x20;
+
+{% hint style="info" %}
+XYLO Forum uses XYLO app ID. Please sign up in K STADIUM to use Forum.&#x20;
+{% endhint %}
+
+1. Go to XYLO forum.&#x20;
+2. Click Sign in button.&#x20;
+3. Enter your XYLO ID and PW. Click SIGN IN. \
+   (Email authorization is needed for the first time.)&#x20;
+4. Sign in completed.&#x20;
+
+{% hint style="danger" %}
+If sign in failure persists, please inquire through our XYLO Help Center.
+{% endhint %}
 
 
 
-How to change language setting
+## How to change language setting
 
 1. Click your profile icon on the top right.
 2. Tab the human icon and click 'Preferences'.
@@ -23,9 +53,9 @@ How to change language setting
 7. 'Save changes' to change the setting to selected language.
 8. Korean letters appear if the setting has been done.
 
-How to upload posts and reply to the post
+## How to upload posts and reply to the post
 
-How to upload posts&#x20;
+### How to upload posts&#x20;
 
 1.Sign in and click New Topic.&#x20;
 
