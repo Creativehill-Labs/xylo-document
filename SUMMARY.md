@@ -15,3 +15,13 @@
 * [Use Bridge](bridge/use-bridge.md)
 * [Bridge large amount conversion](bridge/bridge-large-amount-conversion.md)
 * [FAQ](bridge/faq.md)
+
+## 🔍 EXPLORER
+
+* [Use Explorer](explorer/use-explorer.md)
+* [FAQ](explorer/faq.md)
+
+## 🏛 FORUM
+
+* [Use Forum](forum/use-forum.md)
+* [FAQ](forum/faq.md)
