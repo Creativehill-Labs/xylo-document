@@ -7,3 +7,4 @@
 * [Concepts](concepts.md)
 * [Use XYLO](use-xylo.md)
 * [Use Bridge](use-bridge.md)
+* [Bridge large amount conversion](bridge-large-amount-conversion.md)
