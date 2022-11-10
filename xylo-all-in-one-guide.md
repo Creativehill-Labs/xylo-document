@@ -197,7 +197,11 @@ Sign up and send KOK to your wallet through Bridge.
 
 7\. Enter your password in pop up page.
 
-8\. Tap the OK button. 8-1. Transaction proceeds. 8-2. Check the success message.
+8\. Tap the OK button.&#x20;
+
+8-1. Transaction proceeds.&#x20;
+
+8-2. Check the success message.
 
 9\. Tap the OK button.
 

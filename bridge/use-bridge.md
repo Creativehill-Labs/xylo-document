@@ -109,8 +109,8 @@ You can check converted KOK on the Wallet page of XYLO APP.
 
 ### Step 02
 
-1. Click the From select box and select KSTADIUM GroundChain.
-2. Select K STADIUM Wallet and click the OK button.
+1. Click the From select box and select XYLO GroundChain.
+2. Select XYLO Wallet and click the OK button.
 3. Enter the ID and password created when signing up for the XYLO app.
 4. Click the To select box and select Ethereum Chain.
 5. Select Metamask and click the OK button.

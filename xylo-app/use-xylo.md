@@ -38,7 +38,8 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 #### SOP delegation
 
 1. Go to the SO menu at the bottom.
-2. Tap the DELEGATE button.&#x20;
+
+2\. Tap the DELEGATE button.&#x20;
 
 2-1. You can see detailed information of resoective SO by clicking SO name in the SO list.&#x20;
 
@@ -54,13 +55,17 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 
 7\. Enter your password in pop up page.
 
-8\. Tap the OK button. 9-1. Tansaction proceeds. 9-2. Check the success message.
+8\. Tap the OK button.&#x20;
 
-9\. Tap the OK button.
+9-1. Tansaction proceeds.&#x20;
 
-10\. You can check the status and rewards of delegation on the detailed page of the delegated SO.
+9-2. Check the success message.
 
-11\. You can see SOP transaction in detail page. Depending on network condition, SOP amount may be reflected after a little while.
+10\. Tap the OK button.
+
+11\. You can check the status and rewards of delegation on the detailed page of the delegated SO.
+
+12\. You can see SOP transaction in detail page. Depending on network condition, SOP amount may be reflected after a little while.
 
 
 
@@ -111,7 +116,9 @@ You can check the voting status of proposals at the top right of each card. By c
 #### Participating in Voting.
 
 1. Click on the proposal you want to vote for and it will send you to the detail page.
-2. Click the VOTE button on the selected proposal. 2-1. You can check the voting status at the bottom of this page.
+2. Click the VOTE button on the selected proposal.&#x20;
+
+2-1. You can check the voting status at the bottom of this page.
 
 {% hint style="info" %}
 By the end of the voting period, the SO can submit a final opinion only if the SOM voting participation rate is at least 20% based on the voting power. When a participation rate of 20% or more is reached, the SO who can submit final opinions is displayed through separate color processing in the voting status section.
@@ -135,8 +142,6 @@ By the end of the voting period, the SO can submit a final opinion only if the S
 
 7-2. If multiple voting rights are used, the voting results reflected in Voting status are exposed as much as you used.
 
-
-
 #### Checking Voting Result&#x20;
 
 {% hint style="info" %}
@@ -146,15 +151,25 @@ When the voting ends, the voting results for each SO are automatically counted. 
 **If a proposal failed to pass voting.**
 
 1. If a proposal is thrown out, the voting status will be marked as Rejected.
-2. Click the MY VOTES button to check your voting results on the detail page of a proposal that has closed voting. 2-1. You can check the voting results on the My Voting page.
-3. You can check the voting results reflecting SO's voting power in the Vote Overview section.
-4. You can check the SO's quorum in the Turnout section.
-5. You can check each voting result(SOM voting result) for SO group in the SO group result section.
+2. Click the MY VOTES button to check your voting results on the detail page of a proposal that has closed voting.
+
+2-1. You can check the voting results on the My Voting page.
+
+3\. You can check the voting results reflecting SO's voting power in the Vote Overview section.
+
+4\. You can check the SO's quorum in the Turnout section.
+
+5\. You can check each voting result(SOM voting result) for SO group in the SO group result section.
 
 **If a proposal passed voting.**
 
 1. If a proposal is approved, the voting status will be marked as Passed.
-2. Click the MY VOTES button to check your voting results on the detail page of a proposal that has closed voting. 2-1. You can check the voting results on the My Voting page.
-3. You can check the voting results reflecting SO's voting power in the Vote Overview section.
-4. You can check the SO's quorum in the Turnout section.
-5. You can check each voting result(SOM voting result) for SO group in the SO group result section
+2. Click the MY VOTES button to check your voting results on the detail page of a proposal that has closed voting.&#x20;
+
+2-1. You can check the voting results on the My Voting page.
+
+3\. You can check the voting results reflecting SO's voting power in the Vote Overview section.
+
+4\. You can check the SO's quorum in the Turnout section.
+
+5\. You can check each voting result(SOM voting result) for SO group in the SO group result section

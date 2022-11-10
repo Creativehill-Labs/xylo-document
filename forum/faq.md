@@ -20,7 +20,7 @@ All XYLO users, except certain categories.
 
 **Q. How can I sign in to Forum?**&#x20;
 
-XYLO Forum uses K STADIUM app ID. Please sign up XYLO App and sign in.
+XYLO Forum uses XYLO app ID. Please sign up XYLO App and sign in.
 
 **Q. What is the badges?**&#x20;
 

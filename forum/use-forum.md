@@ -27,7 +27,7 @@ Stadium Owner provides guidance on SO and communication channels for each SO gro
 #### How to sign in&#x20;
 
 {% hint style="info" %}
-XYLO Forum uses XYLO app ID. Please sign up in K STADIUM to use Forum.&#x20;
+XYLO Forum uses XYLO app ID. Please sign up in XYLO to use Forum.&#x20;
 {% endhint %}
 
 1. Go to XYLO forum.&#x20;
