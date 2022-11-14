@@ -1,14 +1,14 @@
 # Concepts
 
-#### SO(Stadium Owner)&#x20;
+#### XO(Xylo Owner)&#x20;
 
 A Stadium Owner is the key representative of XYLO governance. The SO contributes to the XYLO ecosystem by voting on behalf of other users pertaining to proposals on the network. The SO is also the block producer of the network and runs the entire node to verify each transaction. The SO’s reliability ultimately dictates their demand on the network ultimately influencing voting power, which in turn affects additional rewards based on the ranking of the stake.
 
-#### SOM(Stadium Owner Member)&#x20;
+#### XOM(Xylo Owner Member)&#x20;
 
 All other users who have invested KOK in XYLO are referred to as Stadium Owner Members, and do not directly conduct governance voting or operate nodes. SOMs who have invested KOK in the community pool will receive the equivalent amount in SOP (Stadium Owner Power). The SOP can be delegated to the SO, and in return, the user will receive a portion of the rewards the SO receives according to the amount delegated.
 
-#### SOP(Stadium Owner Power)&#x20;
+#### XOP(Xylo Owner Power)&#x20;
 
 SOP is a governance voting right that can be delegated to the SO. XYLO's major crypto alongside KOK. SOP will be issued proportionally to the amount of KOK staked.
 
