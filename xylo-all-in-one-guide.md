@@ -8,12 +8,12 @@ The XYLO wallet address will automatically be generated after downloading the ap
 XYLO APP uses the Groundchain network, so please convert the network of KOK by using the bridge when sending KOK of Ethereum network. Due to the nature of digital assets, recovery is not possible in case of incorrect deposit. <mark style="color:red;background-color:red;">If you make a mistake, you can’t find KOK, so it is recommended to test conversion with a small amount of KOK first.</mark> <mark style="background-color:red;"></mark> Also, even if the wallet address format of KOK and Ethereum is the same, they do not use the same blockchain network, so please check the network type.
 {% endhint %}
 
-### Download XYLO app
+#### Download XYLO app
 
 1. Tap the download link for your operating system. Your device’s app store will open. (XYLO for Android)
 2. Install the XYLO app on your phone.
 
-### Sign Up
+#### Sign Up
 
 1. On the XYLO app, tap the Sign In button at the top. On the Sign In page, tap the Sign Up button to go to the membership page.&#x20;
 
@@ -35,18 +35,18 @@ To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up fir
 
 8\. Tap the CREATE ACCOUNT button.
 
-### Complete registration and Sign In
+#### Complete registration and Sign In
 
 1. Welcome! Registration is complete. You can now tap the Sign In button.
 2. Enter your ID and Password. (Automatic login: optional) If you’ve lost your Password, you can reset it through the Forgot Password function.
 3. Tap the Sign In button to go to the main page after signing in.
 
-### Confirm Wallet Address
+#### Confirm Wallet Address
 
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.
 
-### Receive tokens from Exchange
+#### Receive tokens from Exchange
 
 1. Buy tokens from exchanges that support KOK.
 2. Send tokens to the Metamask wallet address.
@@ -54,7 +54,7 @@ To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up fir
 
 ## BRIDGE&#x20;
 
-### Add KOK token to Metamask
+#### Add KOK token to Metamask
 
 1. Check the network (Ethereum Mainnet).
 2. Click Import tokens.
@@ -140,7 +140,7 @@ Clicking OK button, you need to set the desktop notification for the first time.
 You can check converted KOK on the Wallet page of XYLO APP.
 {% endhint %}
 
-### **Checking History**
+**Checking History**
 
 1. You an check transaction state by going to the History menu.&#x20;
 
@@ -262,7 +262,7 @@ Depending on network condition, SOP amount may be reflected after a little while
 
 ## Community&#x20;
 
-### Posting a Proposal
+#### Posting a Proposal
 
 1. Go to the Community menu.
 2. Click the 'NEW PROPOSAL' button
@@ -278,7 +278,7 @@ Depending on network condition, SOP amount may be reflected after a little while
 12. Click on the OK button.
 13. When the success message is displayed, click the OK button to finish posting the voting proposal and you will be redirected to the main page.
 
-### Checking Proposals by Voting Status&#x20;
+#### Checking Proposals by Voting Status&#x20;
 
 {% hint style="info" %}
 You can check the voting status of proposals at the top right of each card. By clicking the number in My Votes, you can filter and view proposals that are eligible for you to vote.
@@ -288,7 +288,7 @@ You can check the voting status of proposals at the top right of each card. By c
 2. Click ALL at the left of NEW PROPOSAL button.
 3. Voting status is displayed in four categories: ALL, Voting, Passed and Rejected. Click the status you want to check.
 
-### Participating in Voting.
+#### Participating in Voting.
 
 1. Click on the proposal you want to vote for and it will send you to the detail page.
 2.  Click the VOTE button on the selected proposal.&#x20;
@@ -321,7 +321,7 @@ By the end of the voting period, the SO can submit a final opinion only if the S
 
 
 
-### Checking Voting Result&#x20;
+#### Checking Voting Result&#x20;
 
 {% hint style="info" %}
 When the voting ends, the voting results for each SO are automatically counted. In the final vote for each SO, the final opinion according to the voting results of the SOM members and the voting power of the SO are submitted. The SO that can submit a final vote must have a quorum of 40% or more and a vote in favor of 50% or more. Only when these conditions are met the proposal will be passed. Please refer to the XYLO VC process for a detailed explanation of the voting results.&#x20;

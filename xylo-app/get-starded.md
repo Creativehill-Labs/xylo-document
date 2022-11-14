@@ -13,7 +13,7 @@ XYLO APP uses the Groundchain network, so please convert the network of KOK by u
 
 
 
-### **Sign Up**
+## **Sign Up**
 
 1. On the XYLO app, tap the Sign In button at the top. On the Sign In page, tap the Sign Up button to go to the membership page.&#x20;
 
