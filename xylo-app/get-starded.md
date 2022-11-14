@@ -39,7 +39,7 @@ The email entered will be used for verification purposes so please be sure to en
 
 8\. Tap the CREATE ACCOUNT button.
 
-### Complete registration and Sign In
+## Complete registration and Sign In
 
 1. Welcome! Registration is complete. You can now tap the Sign In button.
 2. Enter your ID and Password. (Automatic login: optional)&#x20;
@@ -50,12 +50,12 @@ If you’ve lost your Password, you can reset it through the Forgot Password fun
 
 3\. Tap the Sign In button to go to the main page after signing in.
 
-### Confirm Wallet Address
+## Confirm Wallet Address
 
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.
 
-### Receive tokens from Exchange
+## Receive tokens from Exchange
 
 1. Buy tokens from exchanges that support KOK.
 2. Send tokens to the Metamask wallet address.
