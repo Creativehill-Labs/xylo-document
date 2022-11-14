@@ -29,7 +29,7 @@ At the initial stage of the service, the XYLO investment team introduces the pro
 
 ## Investment Process
 
-### Investment Proposal
+#### Investment Proposal
 
 Any user, including the project team, can propose XYLO's investment proposal if the proposal meets the criteria and guidelines for the selection of the investment project process, and the voting proceeds after entrusting some deposit.
 
@@ -48,7 +48,7 @@ The XYLO Team forms an organization (XYLO Compliance Team) that can manage and s
 4. (Optional) It must be a project to which Crypto can be applied.
 {% endhint %}
 
-### Voting Proposal in Community
+#### Voting Proposal in Community
 
 Projects that have been discussed by investors in the XYLO forum can be registered as proposals in the community within the XYLO app for voting that decides whether to invest.
 
