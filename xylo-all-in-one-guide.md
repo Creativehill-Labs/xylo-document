@@ -43,16 +43,22 @@ The email entered will be used for vertification purposes so please be sure to e
 
 8\. Tap the CREATE ACCOUNT button.
 
+<figure><img src=".gitbook/assets/gitbook_image3.png" alt=""><figcaption></figcaption></figure>
+
 ### Complete registration and Sign In
 
 1. Welcome! Registration is complete. You can now tap the Sign In button.
 2. Enter your ID and Password. (Automatic login: optional) If you’ve lost your Password, you can reset it through the Forgot Password function.
 3. Tap the Sign In button to go to the main page after signing in.
 
+<figure><img src=".gitbook/assets/gitbook_image4.png" alt=""><figcaption></figcaption></figure>
+
 ### Confirm Wallet Address
 
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.
+
+<figure><img src=".gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
 
 ### Receive tokens from Exchange
 
@@ -195,11 +201,17 @@ To invest in Community Pool, KOK is needed.&#x20;
 Sign up and send KOK to your wallet through Bridge.
 {% endhint %}
 
+<figure><img src=".gitbook/assets/gitbook_image6.png" alt=""><figcaption></figcaption></figure>
+
 3\. Agree with the precautions, And enter the amount of KOK you want to remit.
 
 4\. Tap the NEXT button.&#x20;
 
-5\. Enter amount considering fees. Minimum amount is 10 KOK.
+{% hint style="info" %}
+Enter amount considering fees. Minimum amount is 10 KOK.
+{% endhint %}
+
+<figure><img src=".gitbook/assets/gitbook_image7.png" alt=""><figcaption></figcaption></figure>
 
 6\. Check the amount of KOK, And tap the SEND button.
 
