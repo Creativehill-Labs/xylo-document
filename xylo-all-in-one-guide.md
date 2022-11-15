@@ -231,7 +231,7 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 
 <figure><img src=".gitbook/assets/gitbook_image9.png" alt=""><figcaption></figcaption></figure>
 
-#### SOP delegation
+### SOP delegation
 
 1. Go to the SO menu at the bottom.
 2. Tap the DELEGATE button.
@@ -242,11 +242,15 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 2-2. You can DELEGATE in SO detail page.
 {% endhint %}
 
+<figure><img src=".gitbook/assets/gitbook_image10.png" alt=""><figcaption></figcaption></figure>
+
 3\. Select the SO.
 
 4\. Enter the SOP you want to delegate.
 
 5\. Tap the NEXT button.
+
+<figure><img src=".gitbook/assets/gitbook_image11.png" alt=""><figcaption></figcaption></figure>
 
 6\. Check the SO and SOP and tap the SEND button.
 
