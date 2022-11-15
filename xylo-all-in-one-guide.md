@@ -21,6 +21,16 @@ XYLO APP uses the Groundchain network, so please convert the network of KOK by u
 To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up first.&#x20;
 {% endhint %}
 
+<div>
+
+<figure><img src=".gitbook/assets/Main_Beta.jpg" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/Membership_Sign in.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 2\. Enter your ID and Name.
 
 3\. After entering the Password, please enter it again for security measures.
