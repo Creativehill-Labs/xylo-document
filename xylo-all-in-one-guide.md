@@ -213,11 +213,13 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 
 <figure><img src=".gitbook/assets/gitbook_image7.png" alt=""><figcaption></figcaption></figure>
 
-6\. Check the amount of KOK, And tap the SEND button.
+5\. Check the amount of KOK, And tap the SEND button.
 
-7\. Enter your password in pop up page.
+6\. Enter your password in pop up page.
 
-8\. Tap the OK button.&#x20;
+7\. Tap the OK button.&#x20;
+
+<figure><img src=".gitbook/assets/gitbook_image8.png" alt=""><figcaption></figcaption></figure>
 
 8-1. Transaction proceeds.&#x20;
 
@@ -227,7 +229,7 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 
 10\. You can go to the Wallet menu to view SOP and transactions.
 
-
+<figure><img src=".gitbook/assets/gitbook_image9.png" alt=""><figcaption></figcaption></figure>
 
 #### SOP delegation
 
