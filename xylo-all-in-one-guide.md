@@ -421,6 +421,8 @@ When the voting ends, the voting results for each SO are automatically counted. 
 
 5.You can check each voting result(SOM voting result) for SO group in the SO group result section.
 
+<figure><img src=".gitbook/assets/gitbook_image32.png" alt=""><figcaption></figcaption></figure>
+
 **If a proposal passed voting.**
 
 1. If a proposal is approved, the voting status will be marked as Passed.
@@ -433,3 +435,13 @@ When the voting ends, the voting results for each SO are automatically counted. 
 4\. You can check the SO's quorum in the Turnout section.
 
 5\. You can check each voting result(SOM voting result) for SO group in the SO group result section.
+
+<figure><img src=".gitbook/assets/gitbook_image32.png" alt=""><figcaption></figcaption></figure>
+
+## XYLO Explorer
+
+### Checking Block
+
+### Checking Transaction
+
+### Checking Account&#x20;
