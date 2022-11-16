@@ -304,23 +304,46 @@ Depending on network condition, SOP amount may be reflected after a little while
 
 11\. Go to the Wallet menu and check the KOK and transactions.Download XYLO app.
 
+<figure><img src=".gitbook/assets/gitbook_image18.png" alt=""><figcaption></figcaption></figure>
+
 ## Community&#x20;
 
 ### Posting a Proposal
 
 1. Go to the Community menu.
-2. Click the 'NEW PROPOSAL' button
-3. Type your title.
-4. Write your content.
-5. (Optional) Enter your URL of the topic you want for investment pre-screening in the XYLO forum.
-6. Agree to the proposal policy.
-7. Click on the next button.
-8. When you click Available on the Send deposit page, a deposit of 10,000 KOK will be automatically entered. Transaction fees for transmitting deposits are separate.
-9. After entering the deposit, click on the next button.
-10. Click the PROPOSE button.
-11. Enter your password in the "Enter your password" pop-up.
-12. Click on the OK button.
-13. When the success message is displayed, click the OK button to finish posting the voting proposal and you will be redirected to the main page.
+2. Click the 'NEW PROPOSAL' button.
+
+<figure><img src=".gitbook/assets/gitbook_image19.png" alt=""><figcaption></figcaption></figure>
+
+3\. Type your title.
+
+4\. Write your content.
+
+5\. (Optional) Enter your URL of the topic you want for investment pre-screening in the XYLO forum.
+
+6\. Agree to the proposal policy.
+
+7\. Click on the next button.
+
+<figure><img src=".gitbook/assets/gitbook_image20.png" alt=""><figcaption></figcaption></figure>
+
+8\. When you click Available on the Send deposit page, a deposit of 10,000 KOK will be automatically entered. Transaction fees for transmitting deposits are separate.
+
+9\. After entering the deposit, click on the next button.
+
+10\. Click the PROPOSE button.
+
+<figure><img src=".gitbook/assets/gitbook_image21.png" alt=""><figcaption></figcaption></figure>
+
+11\. Enter your password in the "Enter your password" pop-up.
+
+12\. Click on the OK button.
+
+<figure><img src=".gitbook/assets/gitbook_image22.png" alt=""><figcaption></figcaption></figure>
+
+13\. When the success message is displayed, click the OK button to finish posting the voting proposal and you will be redirected to the main page.
+
+
 
 ### Checking Proposals by Voting Status&#x20;
 
