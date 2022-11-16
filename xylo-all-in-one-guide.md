@@ -258,11 +258,15 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 
 8\. Tap the OK button.&#x20;
 
+<figure><img src=".gitbook/assets/gitbook_image12.png" alt=""><figcaption></figcaption></figure>
+
 9-1. Tansaction proceeds.&#x20;
 
 9-2. Check the success message.
 
 10\. Tap the OK button.
+
+<figure><img src=".gitbook/assets/gitbook_image13.png" alt=""><figcaption></figcaption></figure>
 
 11\. You can check the status and rewards of delegation on the detailed page of the delegated SO.
 
@@ -272,19 +276,33 @@ Enter amount considering fees. Minimum amount is 10 KOK.
 Depending on network condition, SOP amount may be reflected after a little while.
 {% endhint %}
 
-#### Reward claim
+<figure><img src=".gitbook/assets/gitbook_image14.png" alt=""><figcaption></figcaption></figure>
+
+### Reward claim
 
 1. After signing in XYLO App, go to SO menu.
 2. Go to the details page of the delegated SO.
 3. After checking the reward, tap the CLAIM button.
-4. Check the KOK amount and tap the CONFIRM button.
-5. Enter your password.
-6. Tap the OK button.
-7. Transaction proceeds.
-8. Check the success message.
-9. Tap the OK button.
-10. You can check the transection the details page of the delegated SO.
-11. Go to the Wallet menu and check the KOK and transactions.Download XYLO app.
+
+<figure><img src=".gitbook/assets/gitbook_image15.png" alt=""><figcaption></figcaption></figure>
+
+4\. Check the KOK amount and tap the CONFIRM button.
+
+5\. Enter your password.
+
+6\. Tap the OK button.
+
+<figure><img src=".gitbook/assets/gitbook_image16.png" alt=""><figcaption></figcaption></figure>
+
+7\. Transaction proceeds.
+
+8\. Check the success message.
+
+9\. Tap the OK button.
+
+10\. You can check the transection the details page of the delegated SO.
+
+11\. Go to the Wallet menu and check the KOK and transactions.Download XYLO app.
 
 ## Community&#x20;
 
