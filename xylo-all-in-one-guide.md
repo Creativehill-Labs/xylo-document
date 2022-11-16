@@ -343,7 +343,7 @@ Depending on network condition, SOP amount may be reflected after a little while
 
 13\. When the success message is displayed, click the OK button to finish posting the voting proposal and you will be redirected to the main page.
 
-
+<figure><img src=".gitbook/assets/gitbook_image23.png" alt=""><figcaption></figcaption></figure>
 
 ### Checking Proposals by Voting Status&#x20;
 
@@ -354,6 +354,8 @@ You can check the voting status of proposals at the top right of each card. By c
 1. Go to the Community menu.
 2. Click ALL at the left of NEW PROPOSAL button.
 3. Voting status is displayed in four categories: ALL, Voting, Passed and Rejected. Click the status you want to check.
+
+<figure><img src=".gitbook/assets/gitbook_image24.png" alt=""><figcaption></figcaption></figure>
 
 ### Participating in Voting.
 
@@ -366,9 +368,13 @@ You can check the voting status of proposals at the top right of each card. By c
 By the end of the voting period, the SO can submit a final opinion only if the SOM voting participation rate is at least 20% based on the voting power. When a participation rate of 20% or more is reached, the SO who can submit final opinions is displayed through separate color processing in the voting status section.
 {% endhint %}
 
+<figure><img src=".gitbook/assets/gitbook_image25.png" alt=""><figcaption></figcaption></figure>
+
 3\. If you do not have the right to vote, this page appears. If you have SOP in your wallet, you can delegate them by proceeding by clicking the DELEGATE button, and you can receive SOP through investing community pool to delegate.
 
 4\. If you have voting rights, you can check the SO's list of SOM voting power where you have delegated over 100 SOP and you can choose YES or NO for the selected proposal. Once submitted, your decision cannot be changed.
+
+<figure><img src=".gitbook/assets/gitbook_image26.png" alt=""><figcaption></figcaption></figure>
 
 5\. Click the VOTE button to complete the voting according to your opinion.
 
