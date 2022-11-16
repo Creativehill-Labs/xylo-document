@@ -372,25 +372,33 @@ By the end of the voting period, the SO can submit a final opinion only if the S
 
 3\. If you do not have the right to vote, this page appears. If you have SOP in your wallet, you can delegate them by proceeding by clicking the DELEGATE button, and you can receive SOP through investing community pool to delegate.
 
-4\. If you have voting rights, you can check the SO's list of SOM voting power where you have delegated over 100 SOP and you can choose YES or NO for the selected proposal. Once submitted, your decision cannot be changed.
-
 <figure><img src=".gitbook/assets/gitbook_image26.png" alt=""><figcaption></figcaption></figure>
+
+4\. If you have voting rights, you can check the SO's list of SOM voting power where you have delegated over 100 SOP and you can choose YES or NO for the selected proposal. Once submitted, your decision cannot be changed.
 
 5\. Click the VOTE button to complete the voting according to your opinion.
 
+<figure><img src=".gitbook/assets/gitbook_image27.png" alt=""><figcaption></figcaption></figure>
+
 6\. If you have multiple votes for more than one SO, you can select your opinion and vote for each SO to which your voting tickets are issued.&#x20;
 
-6-1. If you click on the VOTE button, the voting completion message will be displayed, and the name of the SO group that you voted for will also be shown.&#x20;
+&#x20;  6-1. If you click on the VOTE button, the voting completion message will be displayed, and the name of the SO group that you voted for will also be shown.&#x20;
 
-6-2. In addition, the voting results reflected in the voting status will be displayed.&#x20;
+&#x20;  6-2. In addition, the voting results reflected in the voting status will be displayed.&#x20;
 
-6-3. Votes that have already been completed cannot be edited, and votes that have not been processed can be voted on.
+&#x20;  6-3. Votes that have already been completed cannot be edited, and votes that have not been processed can be voted on.
+
+<figure><img src=".gitbook/assets/gitbook_image28.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/gitbook_image29.png" alt=""><figcaption></figcaption></figure>
 
 7\. If you have multiple voting rights, you can vote with different choices for each voting power.&#x20;
 
 7-1. If multiple voting rights are used, a voting completion message is displayed and the names of each SO group that you completed will be shown.&#x20;
 
 7-2. If multiple voting rights are used, the voting results reflected in Voting status are exposed as much as you used.
+
+<figure><img src=".gitbook/assets/gitbook_image30 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
