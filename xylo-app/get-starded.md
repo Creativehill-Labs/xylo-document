@@ -1,9 +1,9 @@
 # Get Starded
 
-The XYLO wallet address will automatically be generated after downloading the app and once membership registration is complete.The XYLO Wallet can be used for TOKEN deposits, community pool transfers, reward withdrawals as well as bridge service wallet linkage, etc.&#x20;
+The XYLO wallet address will automatically be generated after downloading the app and once membership registration is complete.The XYLO Wallet can be used for KOK deposits, community pool transfers, reward withdrawals as well as bridge service wallet linkage, etc.&#x20;
 
 {% hint style="danger" %}
-XYLO APP uses the Groundchain network, so please convert the network of TOKEN by using the when sending TOKEN of Ethereum network. Due to the nature of digital assets, recovery is not possible in case of incorrect deposit. If you make a mistake, you can’t find TOKEN, so it is recommended to test conversion with a small amount of TOKEN first. Also, even if the wallet address format of TOKEN and Ethereum is the same, they do not use the same blockchain network, so please check the network type.
+XYLO APP uses the Groundchain network, so please convert the network of KOK by using the when sending KOK of Ethereum network. Due to the nature of digital assets, recovery is not possible in case of incorrect deposit. If you make a mistake, you can’t find KOK, so it is recommended to test conversion with a small amount of KOK first. Also, even if the wallet address format of KOK and Ethereum is the same, they do not use the same blockchain network, so please check the network type.
 {% endhint %}
 
 ## Download XYLO app
@@ -57,6 +57,6 @@ If you’ve lost your Password, you can reset it through the Forgot Password fun
 
 ## Receive tokens from Exchange
 
-1. Buy tokens from exchanges that support TOKEN.
+1. Buy tokens from exchanges that support KOK.
 2. Send tokens to the Metamask wallet address.
-3. Change TOKEN's network using the Bridge. Please refer to Use Bridge for more information on how to use it.
+3. Change KOK's network using the Bridge. Please refer to Use Bridge for more information on how to use it.
