@@ -1,53 +1,49 @@
 ---
-description: >-
-  Welcome to the official documentation for XYLO. This document provides
-  concepts and guides related to XYLO.
+description: XYLO 공식 문서에 오신 것을 환영합니다. 이 문서에서는 XYLO과 관련한 개념 및 가이드를 제공합니다.
 ---
 
-# XYLO Intro
+# XYLO 소개
 
 <figure><img src=".gitbook/assets/Frame 19.png" alt=""><figcaption></figcaption></figure>
 
-XYLO is a blockchain-based platform employing a new consensus algorithm called DpoI, or (Delegated Proof of Investment). The DPoI algorithm combines “community pool” and “investment” into the existing DPoS governance structure allowing for investors to explore a variety of new projects and increase the coin’s value through their own voting governance policies.
+#### Outgrowing Blockchain, Rocketing rewards
+
+XYLO은 새로운 합의 알고리즘 DPoI(Delegated Proof of Investment) 기반의 블록체인 플랫폼입니다. DPoI란, 기존 DPoS 거버넌스 구조에 커뮤니티풀과 투자가 접목된 알고리즘으로 투자자들은 투표로 직접 결정하는 거버넌스 정책을 통해 다양한 신규 프로젝트를 확장하고 코인의 가치를 상승시킬 수 있습니다.
 
 {% hint style="info" %}
-DPoI(The Deleted Proof of Investment) is a consensus method that produces a representative node able to exercise voting rights proportional to the stake invested to execute decision-making authority.
+DPoI(Delegated Proof of Investment)는 투자 지분과 비례한 투표권을 행사하여 의사결정 권한을 수행할 수 있는 대표 노드를 산출하는 합의 방식입니다.
 {% endhint %}
 
-XYLO produces rewards proportional to the amount invested in a community pool without the high cost and maintenance of mining equipment to maintain the network. On most existing platforms, institutional investors have expanded their ecosystems through initial investments at low prices which often yield huge returns and rewards from rising coin prices.
+XYLO은 네트워크 유지를 위한 채굴 장비의 높은 초기 구축 비용과 유지 보수 없이 투자자에게 Community Pool에 투자한 금액에 비례하는 보상을 제공합니다. 대부분 기존의 플랫폼에서 기관 투자자는 저렴한 가격으로 초기 투자를 통해 생태계를 확장했으며 이는 종종 가격 상승으로 이어져 막대한 수익과 보상을 독식하고 있습니다. XYLO은 투자자금에 대한 집행 결정을 투자자가 제안과 투표를 통해 직접 진행하고 블록체인에 기록하여 투명하게 공개합니다.
 
-XYLO provides transparency regarding investment funds through proposals and votes, recording them on the blockchain. Unlike traditional staking platforms, XYLO manages an “active” type of investment reaching into other projects, signifying more than mere value adjustment or asset management. Furthermore, the operator does not use the investment arbitrarily, and all investment decisions are executed through investors' votes. Anyone can monitor the usage of his/her investment, and investors' opinions are absolute when it comes to how that investment is leveraged.
+기존의 스테이킹 플랫폼과는 달리 유저들의 투자를 받아 투자금을 운용합니다. 이때의 투자금 운용은 단순히 가치 조정이나 자산관리의 개념이 아닌 다른 프로젝트로의 활발한 투자 등을 의미합니다. 다만 운영사는 투자금을 자의적으로 사용하지 않으며 모든 투자 결정은 투자자들의 투표로 이루어집니다. 내가 투자한 금액이 올바르게 사용되는 것을 누구나 감시할 수 있으며, 투자금의 사용처에 관한 의사결정에는 투자자들의 의견이 절대적입니다.
 
-XYLO voting differs slightly from the traditional concept of voting which need to be understood. As opposed to one vote per person, voting rights are weighed proportionally to the amount invested. When investors remit their investment to the community pool, they will receive the same amount of XYLO Owner Power as their investment. XYLO Owner Power is the voting right mentioned above and the currency that represents one's stake when receiving rewards. Additionally, voting takes place in a delegated structure as opposed to the direct format as often is perceived. This new consensus method is almost an identical benchmark of the widely known delegative democracy.
+하지만 현실의 투표와 XYLO의 투표는 개념이 달라 이해가 필요합니다. 투표는 1인 1표가 아니라 투자한 투자금에 비례해 받은 투표권으로 실행합니다. 투자자가 Community Pool에 투자금을 송금하면 투자한 액수와 동일한 양의 XYLO Owner Power를 발급받습니다. Stadium Owner Power는 앞서 말한 투표권인 동시에 내가 보상받을 때 나의 지분을 나타내는 화폐입니다. 또한, 투표는 직접투표가 아니라 위임투표입니다. 현실에서 국회의원이 선출되고 그들이 의회에서 국민을 대표해 의견을 내듯, 투자자들은 대표자인 Stadium Owner에게 투표권을 위임할 수 있고, 대표자들은 위임받은 투표권을 이용해 투표합니다.
 
-Funds raised in XYLO's community pool will be used as investment capital to improve and update networks as well as support potential new crypto projects such as NFT and defi to launch on the mainnet. Investors investing in TOKEN may freely discuss, propose, and vote to participate in governance that determines the direction of the community, and receive fair share of the rewards pertaining to community power and platform expansion. The cycle of contribution, expansion, and rewards creates a virtuous cycle in which XYLO and its community pool may grow to be more active ultimately resulting in higher profits for its investors.
+XYLO의 커뮤니티 풀에 모인 자금은 네트워크 개선 및 업데이트와 메인넷에 런칭할 NFT, Defi 등 잠재력 있는 신규 크립토 프로젝트를 지원하는 투자 자본으로 사용합니다. TOKEN를 투자한 투자자들은 자유롭게 토론하고 제안 및 투표를 진행하여 커뮤니티의 향방을 결정하는 거버넌스에 참여하고 강력한 커뮤니티 파워와 플랫폼 확장으로 얻은 보상을 지분에 비례하여 공정하게 나누어 받습니다. 기여, 확장, 보상의 사이클로 XYLO과 커뮤니티 풀은 더 활성화되고 투자자들은 이익이 증대하는 선순환 구조를 형성합니다.
 
-### XYLO Consortium
-
-<figure><img src=".gitbook/assets/Group 181.png" alt=""><figcaption></figcaption></figure>
-
-XYLO's reward philosophy is to provide more rewards to those who have invested more in platforms and communities. XYLO is a platform where you can make more profits by investing in your TOKEN
+XYLO의 보상 철학은 플랫폼 및 커뮤니티에서 더 많은 투자를 하신 분들에게 더 많은 보상을 제공하는 것으로 보유한 TOKEN를 투자해서 더 많은 수익을 얻을 수 있는 플랫폼입니다.
 
 {% tabs %}
-{% tab title="Standard reward" %}
-* 70% of total reward.
-* Differently rewarded to all investors based on stake.
-* Differently rewarded to all XO, according to their voting power.
+{% tab title="기본 보상" %}
+* 전체 발생하는 보상 중 70%
+* 모든 투자자들에게 지분 비율에 따라 차등 보상.
+* 투표권에 따라 모든 XO에게 다르게 보상됩니다.
 {% endtab %}
 
-{% tab title="Rank Reward" %}
-* 20% of total reward.
-* Differently rewarded to XYLO Owners and XYLO Owner Members in ranking 12 according to their ranking.
+{% tab title="순위보상" %}
+* 총 보상의 20%
+* 12위 내에 있는 XO 와 XO Member에게 순위에 따라 차등 지급.
 {% endtab %}
 
-{% tab title=" Block production reward" %}
-* 10% of total reward.
-* Given to XYLO Owners and XYLO Owner Members in ranking 6.
-* To maintain network, XYLO Owner operate nodes and produce blocks.
+{% tab title="채굴보상" %}
+* 전체 발생하는 보상 중 10%
+* 6위 내에 있는 XYLO Owner와 XYLO Owner Member에게 지급.
 {% endtab %}
 
-{% tab title="SO activity reward" %}
-* 5% of XO's total reward.
-* It can be used as server maintenance, marketing, team activity cost.
+{% tab title="활동보상" %}
+* 네트워크 유지를 위해 XYLO Owner는 노드를 운영하여 블록을 생성.
+* XO의 총 보상 중 5%를 활동비로 지급.
+* 서버 유지, 마케팅, 팀 활동 보조금 등으로 사용 가능.
 {% endtab %}
 {% endtabs %}

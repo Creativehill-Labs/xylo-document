@@ -1,30 +1,30 @@
 # Table of contents
 
-* [XYLO Intro](README.md)
-  * [XYLO VC Process](xylo-intro/xylo-vc-process.md)
-* [XYLO ALL IN ONE GUIDE](xylo-all-in-one-guide.md)
+* [XYLO 소개](README.md)
+  * [XYLO VC 프로세스](xylo/xylo-vc.md)
+* [XYLO 올인원 가이드](xylo-1.md)
 
 ## 📱 XYLO APP
 
-* [Get Starded](xylo-app/get-starded.md)
-* [Concepts](xylo-app/concepts.md)
-* [Use XYLO](xylo-app/use-xylo.md)
+* [XYLO 시작하기](xylo-app/xylo.md)
+* [XYLO 개념 정의](xylo-app/xylo-1.md)
+* [XYLO App 가이드](xylo-app/xylo-app.md)
 
 ## 🌉 BRIDGE
 
-* [Use Bridge](bridge/use-bridge.md)
-* [Bridge large amount conversion](bridge/bridge-large-amount-conversion.md)
-* [FAQ](bridge/faq.md)
+* [Bridge 가이드](bridge/bridge.md)
+* [Bridge 고액 자산 전환 가이드](bridge/bridge-1.md)
+* [Bridge 자주 하는 질문](bridge/bridge-2.md)
 
 ## 🔍 EXPLORER
 
-* [Use Explorer](explorer/use-explorer.md)
-* [FAQ](explorer/faq.md)
+* [Explorer 가이드](explorer/explorer.md)
+* [Explorer 자주하는 질문](explorer/explorer-1.md)
 
 ## 🏛 FORUM
 
-* [Use Forum](forum/use-forum.md)
-* [FAQ](forum/faq.md)
+* [Forum 가이드](forum/forum.md)
+* [Forum 자주 하는 질문](forum/forum-1.md)
 
 ## 🪙 TOKENOMICS
 
