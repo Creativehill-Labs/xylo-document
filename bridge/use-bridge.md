@@ -2,12 +2,12 @@
 
 ### Opening a new way between cryptocurrencies. ​&#x20;
 
-XYLO Bridge is a service that supports token exchange between different networks. Currently KOK is on the ERC-20 network and is an Ethereum based Mainnet token. In order to use Ethereum mainnet tokens in the XYLO app, a conversion process is required. With the XYLO bridge, Ethereum KOK can be moved to the XYLO mainnet. Depending on the network environment, it takes about 5 minutes and a small fee will be incurred by the Ethereum network itself.
+XYLO Bridge is a service that supports token exchange between different networks. Currently TOKEN is on the ERC-20 network and is an Ethereum based Mainnet token. In order to use Ethereum mainnet tokens in the XYLO app, a conversion process is required. With the XYLO bridge, Ethereum TOKEN can be moved to the XYLO mainnet. Depending on the network environment, it takes about 5 minutes and a small fee will be incurred by the Ethereum network itself.
 
 The XYLO specific Bridge provides a safer and faster way to transfer assets between two chains. For reliable conversion, XYLO Bridge uses the HashedTimeLock feature. Both the From network and To network require respective authorization processes. As the process may take a long time, please continue to monitor the transfer of assets through the Bridge screen or Explorer. The asset can be moved from the desktop web by connecting the wallet in the form of a browser plug-in, and please refer to the guide below at XYLO bridge.
 
 {% hint style="warning" %}
-<mark style="color:red;background-color:red;">**If you want to convert more than 100,000 KOK,**</mark> **please contact us through the XYLO Help Center before proceeding with the conversion.**
+<mark style="color:red;background-color:red;">**If you want to convert more than 100,000 TOKEN,**</mark> **please contact us through the XYLO Help Center before proceeding with the conversion.**
 {% endhint %}
 
 
@@ -31,10 +31,10 @@ When you enter the Token Contract Address, the Token Symbol and Token Decimal ar
 
 6\. Click the Import Tokens button.
 
-7\. Added KOK token.&#x20;
+7\. Added TOKEN token.&#x20;
 
 {% hint style="warning" %}
-If you make an incorrect deposit, you can’t find KOK, so it is recommended to test conversion with a small amount of KOK first.
+If you make an incorrect deposit, you can’t find TOKEN, so it is recommended to test conversion with a small amount of TOKEN first.
 {% endhint %}
 
 
@@ -44,7 +44,7 @@ If you make an incorrect deposit, you can’t find KOK, so it is recommended to 
 ### Step 01
 
 1. Click the Asset select box.
-2. If the Select coin window pops up, select KOK and click the Select button.
+2. If the Select coin window pops up, select TOKEN and click the Select button.
 
 ### Step 02
 
@@ -69,10 +69,10 @@ If you don't have an account, you need to sign up. Please refer to the Get Start
 
 ### Step 03
 
-1. Enter the amount of KOK to convert. Enter the amount excluding the fee.&#x20;
+1. Enter the amount of TOKEN to convert. Enter the amount excluding the fee.&#x20;
 
 {% hint style="danger" %}
-The minimum conversion amount is 100KOK. In case of converting amount less than minimum amount, Error message pops up.
+The minimum conversion amount is 100TOKEN. In case of converting amount less than minimum amount, Error message pops up.
 {% endhint %}
 
 2\. Click the Convert button.
@@ -80,7 +80,7 @@ The minimum conversion amount is 100KOK. In case of converting amount less than 
 3\. On the Check the coin to convert pop-up, check the contents entered, fees, and precautions, and click the OK button.&#x20;
 
 {% hint style="danger" %}
-In case of conversion from Ethereum to Groundchain, a tax and 20 KOK bridge fees are charged.&#x20;
+In case of conversion from Ethereum to Groundchain, a tax and 20 TOKEN bridge fees are charged.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -97,7 +97,7 @@ Clicking OK button, you need to set the desktop notification for the first time.
 6. After approval of To chain, you can check the transaction. **** Conversion is completed.&#x20;
 
 {% hint style="info" %}
-You can check converted KOK on the Wallet page of XYLO APP.
+You can check converted TOKEN on the Wallet page of XYLO APP.
 {% endhint %}
 
 ## Groundchain -> Ethereum conversion&#x20;
@@ -105,7 +105,7 @@ You can check converted KOK on the Wallet page of XYLO APP.
 ### Step 01
 
 1. Click the Asset select box.
-2. If the Select coin window pops up, select KOK and click the Select button.
+2. If the Select coin window pops up, select TOKEN and click the Select button.
 
 ### Step 02
 
@@ -118,10 +118,10 @@ You can check converted KOK on the Wallet page of XYLO APP.
 
 ### Step 03
 
-1. Enter the amount of KOK to convert. Enter the amount excluding the fee.&#x20;
+1. Enter the amount of TOKEN to convert. Enter the amount excluding the fee.&#x20;
 
 {% hint style="danger" %}
-The minimum conversion amount is 100KOK. In case of converting amount less than minimum amount, Error message pops up.
+The minimum conversion amount is 100TOKEN. In case of converting amount less than minimum amount, Error message pops up.
 {% endhint %}
 
 2\. Click the Convert button.
@@ -129,7 +129,7 @@ The minimum conversion amount is 100KOK. In case of converting amount less than 
 3\. On the Check the coin to convert pop-up, check the contents entered, fees, and precautions, and click the OK button.&#x20;
 
 {% hint style="danger" %}
-In case of conversion from Groundchain to Ethereum, a tax and 30 KOK bridge fees are charged.&#x20;
+In case of conversion from Groundchain to Ethereum, a tax and 30TOKEN bridge fees are charged.&#x20;
 {% endhint %}
 
 {% hint style="info" %}
@@ -176,6 +176,6 @@ Timeout or fail to convert in the wallet connected to the To chain. Click the Re
 
 #### Conversion failed when using the Bridge&#x20;
 
-In case of conversion failure or unexpected error when using the Bridge, you can check all your KOK conversion history in the History menu.&#x20;
+In case of conversion failure or unexpected error when using the Bridge, you can check all your TOKEN conversion history in the History menu.&#x20;
 
 You can proceed confirmation by clicking Confirm button in the History. In addition, you can get a refund 48 hours after Confirm button appears.
