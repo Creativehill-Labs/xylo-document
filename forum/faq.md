@@ -24,7 +24,7 @@ XYLO Forum uses XYLO app ID. Please sign up XYLO App and sign in.
 
 **Q. What is the badges?**&#x20;
 
-XYLO Forum has 4 user grades(NEW, SOM, SO, Admin). Badges are given according to users' activities and authority.
+XYLO Forum has 4 user grades(NEW, XOM, XO, Admin). Badges are given according to users' activities and authority.
 
 **Q. How can I post?**&#x20;
 

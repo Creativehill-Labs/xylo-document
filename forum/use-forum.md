@@ -6,9 +6,9 @@
 
 XYLO FORUM is your free channel of communication.&#x20;
 
-XYLO Forum is a place for various communication and debates and provides information of SO for growth of XYLO. Forum also plays an important role as pre-screening community of XYLO Community Pool investment to various crypto projects with potential and technology.&#x20;
+XYLO Forum is a place for various communication and debates and provides information of XO for growth of XYLO. Forum also plays an important role as pre-screening community of XYLO Community Pool investment to various crypto projects with potential and technology.&#x20;
 
-Anyone who is a member of XYLO can join and sign in with K STADIUM APP ID through webpage and mobile web.
+Anyone who is a member of XYLO can join and sign in with XYLO APP ID through webpage and mobile web.
 
 ## Categories&#x20;
 
@@ -22,7 +22,7 @@ Governance & Proposal posts for preliminary screening will be uploaded. The init
 
 #### Stadium Owner&#x20;
 
-Stadium Owner provides guidance on SO and communication channels for each SO group. This category allows SO and SOM to create posts and supports free discussion among SO groups under respective posts.
+Stadium Owner provides guidance on XO and communication channels for each XO group. This category allows XO and XOM to create posts and supports free discussion among XO groups under respective posts.
 
 #### How to sign in&#x20;
 
@@ -61,7 +61,7 @@ If sign in failure persists, please inquire through our XYLO Help Center.
 
 2.Choose Category. Enter title and descriptions.&#x20;
 
-3\. You can choose 'General' or 'Stadium Owner' category to write.&#x20;
+3\. You can choose 'General' or 'XYLO Owner' category to write.&#x20;
 
 4\. Click Create Topic to upload your post.
 
