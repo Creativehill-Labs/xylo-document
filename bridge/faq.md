@@ -2,14 +2,14 @@
 
 **Q. How much are Bridge fees and minimum convertible amount?**&#x20;
 
-* ETH->GND bridge fee 20 TOKEN / GND->ETH bridge fee 30 TOKEN&#x20;
-* minimum convertible amount: 100 TOKEN
+* ETH->GND bridge fee 20 KOK / GND->ETH bridge fee 30 KOK&#x20;
+* minimum convertible amount: 100 KOK&#x20;
 
 Transaction gas fee may change depending on network condition. XYLO Bridge fee is changed weekly accordingly. Fees may differ according to sending chain and receiving chain.
 
 **Q. What is the Bridge and what for do we use it?**&#x20;
 
-It is a service that allows for asset transfers between two different chains. Since the existing TOKEN uses the Ethereum network, it needs to be transferred to the XYLO network.
+It is a service that allows for asset transfers between two different chains. Since the existing KOK uses the Ethereum network, it needs to be transferred to the XYLO network.
 
 **Q. Is there a mobile version of the Bridge?**&#x20;
 
