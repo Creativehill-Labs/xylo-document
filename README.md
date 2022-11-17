@@ -32,22 +32,22 @@ XYLO's reward philosophy is to provide more rewards to those who have invested m
 {% tab title="Standard reward" %}
 * 70% of total reward.
 * Differently rewarded to all investors based on stake.
-* Differently rewarded to all SO, according to their voting power.
+* Differently rewarded to all XO, according to their voting power.
 {% endtab %}
 
 {% tab title="Rank Reward" %}
 * 20% of total reward.
-* Differently rewarded to Stadium Owners and Stadium Owner Members in ranking 12 according to their ranking.
+* Differently rewarded to XYLO Owners and XYLO Owner Members in ranking 12 according to their ranking.
 {% endtab %}
 
 {% tab title=" Block production reward" %}
 * 10% of total reward.
-* Given to Stadium Owners and Stadium Owner Members in ranking 6.
-* To maintain network, Stadium Owner operate nodes and produce blocks.
+* Given to XYLO Owners and XYLO Owner Members in ranking 6.
+* To maintain network, XYLO Owner operate nodes and produce blocks.
 {% endtab %}
 
 {% tab title="SO activity reward" %}
-* 5% of SO's total reward.
+* 5% of XO's total reward.
 * It can be used as server maintenance, marketing, team activity cost.
 {% endtab %}
 {% endtabs %}
