@@ -1,7 +1,7 @@
 # Bridge large amount conversion
 
 {% hint style="info" %}
-Conversion amount more than 100,000TOKEN will be processed as large amount conversion.
+Conversion amount more than 100,000KOK will be processed as large amount conversion.
 {% endhint %}
 
 #### Guide in Bridge
