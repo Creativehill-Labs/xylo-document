@@ -6,11 +6,11 @@ XO는 XYLO 거버넌스의 대표자이자 신뢰 가능한 리더들입니다. 
 
 #### XOM(XYLO Owner Member)&#x20;
 
-XYLO에 KOK를 투자한 모든 사용자는 XYLO Owner Member로 칭하며, 거버넌스 투표를 직접 실행하거나 노드를 운영하지 않지만, 자신의 TOKEN를 커뮤니티풀에 투자하고, 투자한 양만큼의 XOP를 지급받습니다. 지급받은 XOP는 XO에게 위임 가능하며, 사용자는 그 대가로 XO가 받는 리워드의 일부를 위임량만큼 나누어 받습니다
+XYLO에 TOKEN를 투자한 모든 사용자는 XYLO Owner Member로 칭하며, 거버넌스 투표를 직접 실행하거나 노드를 운영하지 않지만, 자신의 TOKEN를 커뮤니티풀에 투자하고, 투자한 양만큼의 XOP를 지급받습니다. 지급받은 XOP는 XO에게 위임 가능하며, 사용자는 그 대가로 XO가 받는 리워드의 일부를 위임량만큼 나누어 받습니다
 
 #### XOP(XYLO Owner Power)&#x20;
 
-XOP는 XO에게 위임이 가능한 거버넌스 투표권입니다. TOKEN와 더불어 XYLO의 대표적인 Crypto입니다. 투자한 TOKEN지분에 비례한 SOP가 발행됩니다.
+XOP는 XO에게 위임이 가능한 거버넌스 투표권입니다. TOKEN와 더불어 XYLO의 대표적인 Crypto입니다. 투자한 TOKEN지분에 비례한 XOP가 발행됩니다.
 
 #### Community Pool&#x20;
 
