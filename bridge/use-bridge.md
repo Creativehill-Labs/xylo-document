@@ -4,6 +4,8 @@
 
 XYLO Bridge is a service that supports token exchange between different networks. Currently TOKEN is on the ERC-20 network and is an Ethereum based Mainnet token. In order to use Ethereum mainnet tokens in the XYLO app, a conversion process is required. With the XYLO bridge, Ethereum TOKEN can be moved to the XYLO mainnet. Depending on the network environment, it takes about 5 minutes and a small fee will be incurred by the Ethereum network itself.
 
+<figure><img src="../.gitbook/assets/Frame 20.png" alt=""><figcaption></figcaption></figure>
+
 The XYLO specific Bridge provides a safer and faster way to transfer assets between two chains. For reliable conversion, XYLO Bridge uses the HashedTimeLock feature. Both the From network and To network require respective authorization processes. As the process may take a long time, please continue to monitor the transfer of assets through the Bridge screen or Explorer. The asset can be moved from the desktop web by connecting the wallet in the form of a browser plug-in, and please refer to the guide below at XYLO bridge.
 
 {% hint style="warning" %}
