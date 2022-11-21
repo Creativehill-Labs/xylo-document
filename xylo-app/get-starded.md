@@ -21,6 +21,8 @@ XYLO APP uses the Groundchain network, so please convert the network of TOKEN by
 To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up first.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/gitbook_image1.png" alt=""><figcaption></figcaption></figure>
+
 2\. Enter your ID and Name.
 
 3\. After entering the Password, please enter it again for security measures.
@@ -31,6 +33,8 @@ To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up fir
 The email entered will be used for verification purposes so please be sure to enter a valid email address.
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/gitbook_image2.png" alt=""><figcaption></figcaption></figure>
+
 5\. Open your verification email and copy the verification code.
 
 6\. Enter verification code in the app and tap the Confirm button.
@@ -38,6 +42,8 @@ The email entered will be used for verification purposes so please be sure to en
 7\. Agree to Terms of use and Privacy policy.
 
 8\. Tap the CREATE ACCOUNT button.
+
+<figure><img src="../.gitbook/assets/gitbook_image3.png" alt=""><figcaption></figcaption></figure>
 
 ## Complete registration and Sign In
 
@@ -50,10 +56,14 @@ If you’ve lost your Password, you can reset it through the Forgot Password fun
 
 3\. Tap the Sign In button to go to the main page after signing in.
 
+<figure><img src="../.gitbook/assets/gitbook_image4.png" alt=""><figcaption></figcaption></figure>
+
 ## Confirm Wallet Address
 
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.
+
+<figure><img src="../.gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
 
 ## Receive tokens from Exchange
 

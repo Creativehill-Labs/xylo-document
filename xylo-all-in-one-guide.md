@@ -58,7 +58,7 @@ The email entered will be used for verification purposes so please be sure to en
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.
 
-<figure><img src=".gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Receive tokens from Exchange
 
@@ -68,7 +68,7 @@ The email entered will be used for verification purposes so please be sure to en
 
 ## BRIDGE&#x20;
 
-### Add TOKEN token to Metamask
+### Add KOK token to Metamask
 
 1. Check the network (Ethereum Mainnet).
 2. Click Import tokens.
@@ -398,7 +398,7 @@ By the end of the voting period, the XO can submit a final opinion only if the X
 
 7-2. If multiple voting rights are used, the voting results reflected in Voting status are exposed as much as you used.
 
-<figure><img src=".gitbook/assets/gitbook_image30 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image30.png" alt=""><figcaption></figcaption></figure>
 
 
 
