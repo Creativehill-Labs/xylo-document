@@ -18,14 +18,14 @@ Project teams wishing to receive investment may publish a proposal by tagging th
 At the initial stage of the service, the XYLO investment team introduces the projects selected for investment pre-screening and process the screening.
 {% endhint %}
 
-| Items                          | Contents                                                                                                                                            |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Project Introduction           | <ul><li>Gitbook or White paper</li></ul>                                                                                                            |
-| Project Information            | <ul><li>Representative, establishment date, location, corporate registration number(optional)</li><li>Team's career or main work history</li></ul>  |
-| Communication Channel          | <ul><li>Official Website</li><li>Facebook, Telegram, Twitter, Discord, etc</li></ul>                                                                |
-| Investment Progress            | <ul><li>Investment stage</li><li>Company value</li><li>Investment amount (KOK quantity is needed to be indicated)</li><li>Investment uses</li></ul> |
-| Token distribution amount      | <ul><li>Issued amount and distribution details</li></ul>                                                                                            |
-| Allocated amounts to investors | <ul><li>N% of total issuance</li></ul>                                                                                                              |
+| Items                          | Contents                                                                                                                                              |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Project Introduction           | <ul><li>Gitbook or White paper</li></ul>                                                                                                              |
+| Project Information            | <ul><li>Representative, establishment date, location, corporate registration number(optional)</li><li>Team's career or main work history</li></ul>    |
+| Communication Channel          | <ul><li>Official Website</li><li>Facebook, Telegram, Twitter, Discord, etc</li></ul>                                                                  |
+| Investment Progress            | <ul><li>Investment stage</li><li>Company value</li><li>Investment amount (TOKEN quantity is needed to be indicated)</li><li>Investment uses</li></ul> |
+| Token distribution amount      | <ul><li>Issued amount and distribution details</li></ul>                                                                                              |
+| Allocated amounts to investors | <ul><li>N% of total issuance</li></ul>                                                                                                                |
 
 ## Investment Process
 
@@ -37,7 +37,9 @@ Any user, including the project team, can propose XYLO's investment proposal if 
 If the proposal passes the vote, the deposit will be refunded. The current deposit is 10,000 TOKEN (excluding fees), but this amount is subject to change.
 {% endhint %}
 
-The XYLO Team forms an organization (XYLO Compliance Team) that can manage and supervise the investment in the Community Pool for transparent and fair execution. It is made up of experts and does not participate in investment decisions, but seeks to help in the execution of investment funds through legal compliance, compliance monitoring, regulation, investment execution, and objective evaluation. For service stabilization prior to official service, only projects that have been verified by the XYLO compliance team will be voted on.
+The XYLO Team forms an organization (XYLO Compliance Team) that can manage and supervise the investment in the Community Pool for transparent and fair execution. It is made up of experts and does not participate in investment decisions, but seeks to help in the execution of investment funds through legal compliance, compliance monitoring, regulation, investment execution, and objective evaluation.&#x20;
+
+For service stabilization prior to official service, only projects that have been verified by the XYLO compliance team will be voted on.
 
 {% hint style="info" %}
 **Project Criteria for Investment**
@@ -87,6 +89,6 @@ The proportion of XOM voting is reflected according to the following calculation
 * The proportion of overall XOP delegated is adjusted as the same amount as the number of funds in the Community Pool is reduced. Since the supply of the entire delegated XOP is simultaneously adjusted at the same rate, the amount of holders’ delegated XOP may be affected but the voting power is not.
 * Progress of the project can be checked after the execution of the investment funds on the Investment page within the XYLO app community.
 
-2\. The reward for the investment is paid to all SOMs who were delegating the XOP as of one day before the start of voting.
+2\. The reward for the investment is paid to all XOMs who were delegating the XOP as of one day before the start of voting.
 
 * Investment rewards are paid in the same way as the existing XO delegation reward calculation method.
