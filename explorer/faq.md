@@ -6,7 +6,7 @@ It is a program that allows you to search and inquire about transactions, accoun
 
 **Q. What is the Bridge and what for do we use it?**&#x20;
 
-It is a service that allows for asset transfers between two different chains. Since the existing KOK uses the Ethereum network, it needs to be transferred to the XYLO network.
+It is a service that allows for asset transfers between two different chains. Since the existing TOKEN uses the Ethereum network, it needs to be transferred to the XYLO network.
 
 **Q. What can I search in Explorer?**&#x20;
 
