@@ -62,7 +62,7 @@ SEND TO COMMUNITY를 실행하기 위해서는 XYLO 월렛이 필요합니다. �
 1. XYLO App 하단의 Wallet 메뉴로 이동합니다.
 2. 가입과 함께 생성된 지갑 주소와 자산을 확인합니다.
 
-<figure><img src=".gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### TOKEN 토큰 받기
 
@@ -228,7 +228,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 2-2. 상세페이지 내부에서도 DELEGATE를 진행할 수 있습니다.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image10 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image10.png" alt=""><figcaption></figcaption></figure>
 
 3\. List에서 위임할 XO를 선택합니다.
 
@@ -262,7 +262,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 네트워크 상태에 따라 위임한 XOP 반영되는 시간이 상이할 수 있습니다
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image14.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -325,7 +325,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 10\. PROPOSE 버튼을 클릭합니다.
 
-<figure><img src=".gitbook/assets/gitbook_image21 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image21.png" alt=""><figcaption></figcaption></figure>
 
 11\. Enter your password 팝업에서 비밀번호를 입력합니다.
 
@@ -392,7 +392,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 &#x20;  7-2. 다수의 투표권을 사용한 경우 사용한 만큼 Voting status에서 반영된 투표 결과가 노출됩니다.
 
-<figure><img src=".gitbook/assets/gitbook_image30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image30 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 투표 결과 확인&#x20;
 
