@@ -52,6 +52,8 @@ Forum 투자 예비 심사에서 투자자들의 토론을 거친 프로젝트�
 
 #### 투표 프로세스
 
+<figure><img src="../.gitbook/assets/Frame 21.png" alt=""><figcaption></figcaption></figure>
+
 1. 커뮤니티에 투자 제안을 등록합니다.
 
 * 무분별한 투자 제안을 방지하기 위해 제안을 등록하는 제안자는 10,000 TOKEN의 보증금과 트랜잭션 수수료를 지불합니다.
