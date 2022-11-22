@@ -54,6 +54,10 @@ For service stabilization prior to official service, only projects that have bee
 
 Projects that have been discussed by investors in the XYLO forum can be registered as proposals in the community within the XYLO app for voting that decides whether to invest.
 
+**Voting Process**
+
+<figure><img src="../.gitbook/assets/Frame 21.png" alt=""><figcaption></figcaption></figure>
+
 1. Register your investment proposal in the community.
 
 * In order to prevent indiscriminate proposals, a proposer who wants to register must pay 10,000 TOKEN for a deposit and transaction fees.
