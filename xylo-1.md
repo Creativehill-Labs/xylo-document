@@ -1,4 +1,4 @@
-# XYLO 올인원 가이드
+# XYLO 올인원 가이드aaa
 
 ## XYLO&#x20;
 
@@ -172,8 +172,6 @@ Timeout 또는 To 체인에 연결된 지갑에서 전송에 실패한 상태로
 
 상단 History에서 나의 모든 TOKEN 전환 내역을 확인 가능합니다. 전송 중 Confirm 버튼을 클릭하지 못한 경우 History에서 전환 중 누르지 못한 Confirm을 진행할 수 있습니다. 또한 Confirm을 48시간 동안 누르지 않을 경우 환불 절차가 진행되며 History에서 해당 절차를 확인하실 수 있습니다.
 
-
-
 ## 위임&#x20;
 
 ### Community Pool 송금
@@ -264,8 +262,6 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 <figure><img src=".gitbook/assets/gitbook_image14 (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### 리워드 출금
 
 1. XYLO App을 실행해 로그인 완료 후 App 하단의 XO 메뉴로 이동합니다.
@@ -295,8 +291,6 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 11\. Wallet메뉴로 이동하여 TOKEN및 트랜잭션을 확인하실 수 있습니다.
 
 <figure><img src=".gitbook/assets/gitbook_image18.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## Community&#x20;
 
@@ -337,8 +331,6 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 <figure><img src=".gitbook/assets/gitbook_image23.png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### 투표 상태별 게시글 확인법&#x20;
 
 {% hint style="info" %}
@@ -356,7 +348,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 1. 원하는 투표 게시글을 클릭하여 해당 제안의 상세 페이지로 이동합니다.
 2. 선택한 투표 게시글에서 VOTE 버튼을 클릭합니다.&#x20;
 
-&#x20;    2-1. 투표 게시글 하단에서 투표 현황을 확인할 수 있습니다.&#x20;
+&#x20; 2-1. 투표 게시글 하단에서 투표 현황을 확인할 수 있습니다.&#x20;
 
 {% hint style="info" %}
 투표 기간 종료 시까지 XOM 투표 참여율이 보팅 파워 기준 20% 이상인 경우에만 해당 XO가 최종 의견을 제출할 수 있습니다. 20% 이상의 참여율이 달성된 경우 투표 현황에서 별도의 색상 처리를 통해 최종 의견을 제출할 수 있는 XO들을 표시합니다.
@@ -376,11 +368,11 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 6\. XO 별로 다수의 투표권을 보유한 경우 발행된 투표권마다 다른 의견을 선택 후 투표할 수 있습니다.&#x20;
 
-&#x20;  6-1. VOTE 버튼을 클릭할 경우 투표 완료 메시지가 표시되며 투표를 진행한 XO 그룹명이 표시됩니다.&#x20;
+&#x20; 6-1. VOTE 버튼을 클릭할 경우 투표 완료 메시지가 표시되며 투표를 진행한 XO 그룹명이 표시됩니다.&#x20;
 
-&#x20;  6-2. 또한 Voting status에서 반영된 투표 결과가 노출됩니다.&#x20;
+&#x20; 6-2. 또한 Voting status에서 반영된 투표 결과가 노출됩니다.&#x20;
 
-&#x20;  6-3. 이미 완료된 투표는 수정이 불가능하며 진행하지 않은 투표는 투표가 가능합니다.
+&#x20; 6-3. 이미 완료된 투표는 수정이 불가능하며 진행하지 않은 투표는 투표가 가능합니다.
 
 <figure><img src=".gitbook/assets/gitbook_image28.png" alt=""><figcaption></figcaption></figure>
 
@@ -388,9 +380,9 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 7\. 다수의 투표권을 보유한 경우 투표권마다 다른 선택으로 투표가 가능합니다.&#x20;
 
-&#x20;  7-1. 다수의 투표권을 사용한 경우 투표 완료 메시지가 표시되며 투표를 진행한 다수 XO 그룹명이 표시됩니다.&#x20;
+&#x20; 7-1. 다수의 투표권을 사용한 경우 투표 완료 메시지가 표시되며 투표를 진행한 다수 XO 그룹명이 표시됩니다.&#x20;
 
-&#x20;  7-2. 다수의 투표권을 사용한 경우 사용한 만큼 Voting status에서 반영된 투표 결과가 노출됩니다.
+&#x20; 7-2. 다수의 투표권을 사용한 경우 사용한 만큼 Voting status에서 반영된 투표 결과가 노출됩니다.
 
 <figure><img src=".gitbook/assets/gitbook_image30.png" alt=""><figcaption></figcaption></figure>
 
@@ -429,4 +421,3 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 5\. SO group results 항목에서 XO 그룹별 투표(XOM 투표) 결과를 확인하실 수 있습니다.
 
 <figure><img src=".gitbook/assets/gitbook_image33.png" alt=""><figcaption></figcaption></figure>
-
