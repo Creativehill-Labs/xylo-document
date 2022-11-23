@@ -29,7 +29,7 @@
 ## 🪙 TOKENOMICS
 
 * [TOKEN 1](tokenomics/token-1.md)
-* [TOKEN 2](tokenomics/token-2.md)
+* [XOP](tokenomics/token-2.md)
 
 ## LINK
 
