@@ -337,7 +337,7 @@ Depending on network condition, XOP amount may be reflected after a little while
 
 12\. Click on the OK button.
 
-<figure><img src=".gitbook/assets/gitbook_image22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image22 (1).png" alt=""><figcaption></figcaption></figure>
 
 13\. When the success message is displayed, click the OK button to finish posting the voting proposal and you will be redirected to the main page.
 
@@ -364,7 +364,7 @@ You can check the voting status of proposals at the top right of each card. By c
 By the end of the voting period, the XO can submit a final opinion only if the XOM voting participation rate is at least 20% based on the voting power. When a participation rate of 20% or more is reached, the XO who can submit final opinions is displayed through separate color processing in the voting status section.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image25 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image25.png" alt=""><figcaption></figcaption></figure>
 
 3\. If you do not have the right to vote, this page appears. If you have XOP in your wallet, you can delegate them by proceeding by clicking the DELEGATE button, and you can receive XOP through investing community pool to delegate.
 

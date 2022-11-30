@@ -21,7 +21,7 @@ XYLO APP uses the Groundchain network, so please convert the network of TOKEN by
 To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up first.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitbook_image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter your ID and Name.
 
@@ -63,7 +63,7 @@ If you’ve lost your Password, you can reset it through the Forgot Password fun
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.
 
-<figure><img src="../.gitbook/assets/gitbook_image5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
 
 ## Receive tokens from Exchange
 
