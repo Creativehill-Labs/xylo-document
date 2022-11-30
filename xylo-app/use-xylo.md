@@ -154,7 +154,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 
 12\. Click on the OK button.
 
-<figure><img src="../.gitbook/assets/gitbook_image22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image22 (1).png" alt=""><figcaption></figcaption></figure>
 
 13\. When the success message is displayed, click the OK button to finish posting the voting proposal and you will be redirected to the main page.
 
@@ -172,7 +172,7 @@ You can check the voting status of proposals at the top right of each card. By c
 2. Click ALL at the left of NEW PROPOSAL button.
 3. Voting status is displayed in four categories: ALL, Voting, Passed and Rejected. Click the status you want to check.
 
-<figure><img src="../.gitbook/assets/gitbook_image24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image24 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Participating in Voting.
 
@@ -188,22 +188,22 @@ By the end of the voting period, the XO can submit a final opinion only if the X
 
 3\. If you do not have the right to vote, this page appears. If you have XOP in your wallet, you can delegate them by proceeding by clicking the DELEGATE button, and you can receive XOP through investing community pool to delegate.
 
-<figure><img src="../.gitbook/assets/gitbook_image26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image26 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. If you have voting rights, you can check the XO's list of XOM voting power where you have delegated over 100 XOP and you can choose YES or NO for the selected proposal. Once submitted, your decision cannot be changed.
 
 5\. Click the VOTE button to complete the voting according to your opinion.
 
-<figure><img src="../.gitbook/assets/gitbook_image27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image27 (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. If you have multiple votes for more than one XO, you can select your opinion and vote for each XO to which your voting tickets are issued. \
 &#x20; 6-1. If you click on the VOTE button, the voting completion message will be displayed, and the name of the XO group that you voted for will also be shown. \
 &#x20; 6-2. In addition, the voting results reflected in the voting status will be displayed. \
 &#x20; 6-3. Votes that have already been completed cannot be edited, and votes that have not been processed can be voted on.
 
-<figure><img src="../.gitbook/assets/gitbook_image28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image28 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/gitbook_image29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image29 (1).png" alt=""><figcaption></figcaption></figure>
 
 7\. If you have multiple voting rights, you can vote with different choices for each voting power.&#x20;
 
@@ -211,7 +211,7 @@ By the end of the voting period, the XO can submit a final opinion only if the X
 
 7-2. If multiple voting rights are used, the voting results reflected in Voting status are exposed as much as you used.
 
-<figure><img src="../.gitbook/assets/gitbook_image30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image30 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Checking Voting Result&#x20;
 

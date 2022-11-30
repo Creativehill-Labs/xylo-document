@@ -313,8 +313,6 @@ Depending on network condition, XOP amount may be reflected after a little while
 1. Go to the Community menu.
 2. Click the 'NEW PROPOSAL' button.
 
-<figure><img src=".gitbook/assets/gitbook_image19.png" alt=""><figcaption></figcaption></figure>
-
 3\. Type your title.
 
 4\. Write your content.
@@ -333,7 +331,7 @@ Depending on network condition, XOP amount may be reflected after a little while
 
 10\. Click the PROPOSE button.
 
-<figure><img src=".gitbook/assets/gitbook_image21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image21 (1).png" alt=""><figcaption></figcaption></figure>
 
 11\. Enter your password in the "Enter your password" pop-up.
 
@@ -342,8 +340,6 @@ Depending on network condition, XOP amount may be reflected after a little while
 <figure><img src=".gitbook/assets/gitbook_image22.png" alt=""><figcaption></figcaption></figure>
 
 13\. When the success message is displayed, click the OK button to finish posting the voting proposal and you will be redirected to the main page.
-
-<figure><img src=".gitbook/assets/gitbook_image23.png" alt=""><figcaption></figcaption></figure>
 
 ### Checking Proposals by Voting Status&#x20;
 
@@ -368,7 +364,7 @@ You can check the voting status of proposals at the top right of each card. By c
 By the end of the voting period, the XO can submit a final opinion only if the XOM voting participation rate is at least 20% based on the voting power. When a participation rate of 20% or more is reached, the XO who can submit final opinions is displayed through separate color processing in the voting status section.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image25 (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. If you do not have the right to vote, this page appears. If you have XOP in your wallet, you can delegate them by proceeding by clicking the DELEGATE button, and you can receive XOP through investing community pool to delegate.
 
@@ -398,7 +394,7 @@ By the end of the voting period, the XO can submit a final opinion only if the X
 
 7-2. If multiple voting rights are used, the voting results reflected in Voting status are exposed as much as you used.
 
-<figure><img src=".gitbook/assets/gitbook_image30 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image30.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -419,9 +415,9 @@ When the voting ends, the voting results for each XO are automatically counted. 
 
 4.You can check the XO's quorum in the Turnout section.
 
-5.You can check each voting result(XOM voting result) for XO group in the XO group result section.
+5.You can check each voting result(XOM voting result) for XO group in the XO group result section
 
-<figure><img src=".gitbook/assets/gitbook_image32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image31.png" alt=""><figcaption></figcaption></figure>
 
 **If a proposal passed voting.**
 
@@ -436,7 +432,7 @@ When the voting ends, the voting results for each XO are automatically counted. 
 
 5\. You can check each voting result(XOM voting result) for XO group in the XO group result section.
 
-<figure><img src=".gitbook/assets/gitbook_image32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image33 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## XYLO Explorer
 
