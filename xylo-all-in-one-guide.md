@@ -18,10 +18,10 @@ XYLO APP uses the Groundchain network, so please convert the network of TOKEN by
 1. On the XYLO app, tap the Sign In button at the top. On the Sign In page, tap the Sign Up button to go to the membership page.&#x20;
 
 {% hint style="info" %}
-To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up first.&#x20;
+To SEND TO COMMUNITY, you need XYLO Wallet. To create Wallet, please Sign Up firs
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter your ID and Name.
 
@@ -56,7 +56,7 @@ The email entered will be used for verification purposes so please be sure to en
 ### Confirm Wallet Address
 
 1. Go to the Wallet menu at the bottom of the app.
-2. Check the wallet address created with the subscription and relevant assets.
+2. Check the wallet address created with the subscription and relevant assets.ma
 
 <figure><img src=".gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
 
@@ -198,7 +198,7 @@ You can proceed confirmation by clicking Confirm button in the History. In addit
 {% hint style="info" %}
 To invest in Community Pool, TOKEN is needed.&#x20;
 
-Sign up and send TOKEN to your wallet through Bridge.
+Sign up and send TOKEN to your wallet through Bridge
 {% endhint %}
 
 <figure><img src=".gitbook/assets/gitbook_image6.png" alt=""><figcaption></figcaption></figure>
@@ -219,7 +219,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 
 7\. Tap the OK button.&#x20;
 
-<figure><img src=".gitbook/assets/gitbook_image8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image8 (1).png" alt=""><figcaption></figcaption></figure>
 
 8-1. Transaction proceeds.&#x20;
 
@@ -227,7 +227,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 
 9\. Tap the OK button.
 
-10\. You can go to the Wallet menu to view XOP and transactions.
+10\. You can go to the Wallet menu to view XOP and transactions.ㅑㅡㅁㅎㄱㄷ
 
 <figure><img src=".gitbook/assets/gitbook_image9 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -242,7 +242,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 2-2. You can DELEGATE in XO detail page.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image10 (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the XO.
 
@@ -250,13 +250,11 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 
 5\. Tap the NEXT button.
 
-<figure><img src=".gitbook/assets/gitbook_image11.png" alt=""><figcaption></figcaption></figure>
-
 6\. Check the XO and XOP and tap the SEND button.
 
 7\. Enter your password.
 
-8\. Tap the OK button.&#x20;
+8\. Tap the OK button.
 
 <figure><img src=".gitbook/assets/gitbook_image12.png" alt=""><figcaption></figcaption></figure>
 
@@ -266,7 +264,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 
 10\. Tap the OK button.
 
-<figure><img src=".gitbook/assets/gitbook_image13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image13 (1).png" alt=""><figcaption></figcaption></figure>
 
 11\. You can check the status and rewards of delegation on the detailed page of the delegated XO.
 
@@ -284,7 +282,7 @@ Depending on network condition, XOP amount may be reflected after a little while
 2. Go to the details page of the delegated XO.
 3. After checking the reward, tap the CLAIM button.
 
-<figure><img src=".gitbook/assets/gitbook_image15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image15 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Check the TOKEN amount and tap the CONFIRM button.
 
@@ -292,7 +290,7 @@ Depending on network condition, XOP amount may be reflected after a little while
 
 6\. Tap the OK button.
 
-<figure><img src=".gitbook/assets/gitbook_image16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image16 (1).png" alt=""><figcaption></figcaption></figure>
 
 7\. Transaction proceeds.
 
@@ -300,11 +298,13 @@ Depending on network condition, XOP amount may be reflected after a little while
 
 9\. Tap the OK button.
 
+<figure><img src=".gitbook/assets/gitbook_image17 (1).png" alt=""><figcaption></figcaption></figure>
+
 10\. You can check the transection the details page of the delegated XO.
 
 11\. Go to the Wallet menu and check the TOKEN and transactions. Download XYLO app.
 
-<figure><img src=".gitbook/assets/gitbook_image18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image18 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Community&#x20;
 

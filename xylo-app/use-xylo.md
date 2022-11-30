@@ -11,7 +11,7 @@
 To invest in Community Pool, TOKEN is needed. ​ sign up and send TOKEN to your wallet through Bridge.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitbook_image6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image6 (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Agree with the precautions, And enter the amount of TOKEN you want to remit.
 
@@ -21,7 +21,7 @@ To invest in Community Pool, TOKEN is needed. ​ sign up and send TOKEN to your
 Enter amount considering fees. Minimum amount is 10 TOKEN.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitbook_image7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image7 (1).png" alt=""><figcaption></figcaption></figure>
 
 5\. Check the amount of TOKEN, And tap the SEND button.
 
@@ -61,7 +61,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 
 5\. Tap the NEXT button.
 
-<figure><img src="../.gitbook/assets/gitbook_image11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image11 (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. Check the XO and XOP and tap the SEND button.
 
@@ -69,7 +69,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 
 8\. Tap the OK button.&#x20;
 
-<figure><img src="../.gitbook/assets/gitbook_image12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image12 (1).png" alt=""><figcaption></figcaption></figure>
 
 9-1. Tansaction proceeds.&#x20;
 
@@ -87,7 +87,7 @@ Enter amount considering fees. Minimum amount is 10 TOKEN.
 &#x20;Depending on network condition, XOP amount may be reflected after a little while.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitbook_image14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image14 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

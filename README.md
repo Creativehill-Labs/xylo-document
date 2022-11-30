@@ -46,7 +46,7 @@ XYLO's reward philosophy is to provide more rewards to those who have invested m
 * To maintain network, XYLO Owner operate nodes and produce blocks.
 {% endtab %}
 
-{% tab title="SO activity reward" %}
+{% tab title="XO activity reward" %}
 * 5% of XO's total reward.
 * It can be used as server maintenance, marketing, team activity cost.
 {% endtab %}
