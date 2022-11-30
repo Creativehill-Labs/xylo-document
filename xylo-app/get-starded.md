@@ -63,7 +63,7 @@ If you’ve lost your Password, you can reset it through the Forgot Password fun
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.
 
-<figure><img src="../.gitbook/assets/gitbook_image5 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image5 (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Receive tokens from Exchange
 

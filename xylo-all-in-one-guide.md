@@ -58,7 +58,7 @@ The email entered will be used for verification purposes so please be sure to en
 1. Go to the Wallet menu at the bottom of the app.
 2. Check the wallet address created with the subscription and relevant assets.ma
 
-<figure><img src=".gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image5 (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Receive tokens from Exchange
 
