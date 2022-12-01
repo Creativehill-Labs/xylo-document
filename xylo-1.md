@@ -244,7 +244,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 8\. OK버튼을 클릭 합니다.&#x20;
 
-<figure><img src=".gitbook/assets/gitbook_image12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image12 (1).png" alt=""><figcaption></figcaption></figure>
 
 9-1. 트랜잭션이 발생합니다.&#x20;
 
@@ -252,7 +252,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 10\. OK버튼을 클릭 합니다.
 
-<figure><img src=".gitbook/assets/gitbook_image13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image13 (1).png" alt=""><figcaption><p> </p></figcaption></figure>
 
 11\. XO의 상세페이지에서 위임 현황 및 리워드를 확인할 수 있습니다.
 
@@ -262,7 +262,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 네트워크 상태에 따라 위임한 XOP 반영되는 시간이 상이할 수 있습니다
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image14 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -272,7 +272,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 2. 위임한 XO의 상세 페이지로 이동합니다.
 3. 리워드로 받은 TOKEN 금액을 확인하고, CLAIM 버튼을 클릭 합니다.
 
-<figure><img src=".gitbook/assets/gitbook_image15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image15.png" alt=""><figcaption><p>a=</p></figcaption></figure>
 
 4\. TOKEN금액 확인 후 CONFIRM 버튼을 클릭 합니다.
 

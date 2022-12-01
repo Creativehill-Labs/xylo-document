@@ -64,7 +64,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 
 5\. NEXT 버튼을 클릭 합니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image11 (1).png" alt=""><figcaption></figcaption></figure>
 
 6\. 입력된 정보 확인 후 SEND 버튼을 클릭 합니다.
 
@@ -100,7 +100,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 2. 위임한 XO의 상세 페이지로 이동합니다.
 3. 리워드로 받은 TOKEN 금액을 확인하고, CLAIM 버튼을 클릭 합니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image15 (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. TOKEN 금액 확인 후 CONFIRM 버튼을 클릭 합니다.
 
