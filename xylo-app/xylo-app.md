@@ -13,7 +13,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 회원가입 및 브릿지에서 TOKEN자산전송을 먼저 진행해 주세요.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitbook_image6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image6 (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. 유의사항에 동의하고, 전송할 TOKEN를 입력합니다.
 

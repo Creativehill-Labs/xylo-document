@@ -27,8 +27,6 @@ SEND TO COMMUNITY를 실행하기 위해서는 XYLO 월렛이 필요합니다. �
 
 <figure><img src=".gitbook/assets/gitbook_image1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/gitbook_image1.png" alt=""><figcaption></figcaption></figure>
-
 2\. 아이디, 이름을 입력합니다.
 
 3\. 비밀번호를 입력한 후 앞서 입력한 비밀번호를 다시 한 번 입력합니다.
@@ -64,7 +62,7 @@ SEND TO COMMUNITY를 실행하기 위해서는 XYLO 월렛이 필요합니다. �
 1. XYLO App 하단의 Wallet 메뉴로 이동합니다.
 2. 가입과 함께 생성된 지갑 주소와 자산을 확인합니다.
 
-<figure><img src=".gitbook/assets/gitbook_image5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
 
 ### TOKEN 토큰 받기
 
@@ -189,7 +187,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 회원가입 및 브릿지에서 TOKEN 자산전송을 먼저 진행해 주세요.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image6.png" alt=""><figcaption><p>ima</p></figcaption></figure>
 
 3\. 유의사항에 동의하고, 전송할 TOKEN를 입력합니다.
 
@@ -199,7 +197,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 보유하신 TOKEN중 수수료를 제외한 수량을 입력해 주세요. 10개 이상부터 전송 가능합니다.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/gitbook_image7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image7 (1).png" alt=""><figcaption></figcaption></figure>
 
 5\. 전송 TOKEN수량 확인 후 SEND 버튼을 클릭 합니다.
 
@@ -207,7 +205,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 7\. OK버튼을 클릭 합니다.&#x20;
 
-<figure><img src=".gitbook/assets/gitbook_image8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image8 (1).png" alt=""><figcaption></figcaption></figure>
 
 8-1. 트랜잭션이 발생합니다.&#x20;
 
@@ -217,7 +215,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN 가 필요�
 
 10\. Wallet 메뉴에서 XOP 및 트랜잭션을 확인 할 수 있습니다.
 
-<figure><img src=".gitbook/assets/gitbook_image9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/gitbook_image9 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### XO위임하는 방법
 
