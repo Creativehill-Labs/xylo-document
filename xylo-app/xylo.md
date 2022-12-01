@@ -23,7 +23,7 @@ XYLO APP은 그라운드 체인 네트워크를 사용하므로 이더리움 네
 SEND TO COMMUNITY를 실행하기 위해서는 XYLO 월렛이 필요합니다. 지갑 생성을 위해 회원가입을 먼저 진행해주세요.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/gitbook_image1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image1 (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. 아이디, 이름을 입력합니다.
 
@@ -69,7 +69,7 @@ SEND TO COMMUNITY를 실행하기 위해서는 XYLO 월렛이 필요합니다. �
 1. XYLO App 하단의 Wallet 메뉴로 이동합니다.
 2. 가입과 함께 생성된 지갑 주소와 자산을 확인합니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image5.png" alt=""><figcaption></figcaption></figure>
 
 
 
