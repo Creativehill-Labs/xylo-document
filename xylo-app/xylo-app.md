@@ -120,7 +120,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 
 11\. Wallet메뉴로 이동하여 TOKEN 및 트랜잭션을 확인하실 수 있습니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image18 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Community&#x20;
 
@@ -129,7 +129,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 1. Community 메뉴로 이동합니다.
 2. NEW PROPOSAL 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image19 (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. 투표글 제목을 입력합니다.
 
@@ -141,7 +141,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 
 7\. NEXT 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image20 (2).png" alt=""><figcaption></figcaption></figure>
 
 8\. Send deposit 페이지에서 Available을 클릭하면 자동으로 10,000 TOKEN의 보증금이 입력됩니다. 보증금을 전송하기 위한 트랜잭션 수수료는 별도입니다.
 
@@ -149,7 +149,7 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 
 10\. PROPOSE 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image21 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image21 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 11\. Enter your password 팝업에서 비밀번호를 입력합니다.
 
@@ -199,9 +199,9 @@ Community Pool 송금 및 어플을 이용하기 위해서는 TOKEN가 필요합
 &#x20;  6-2. 또한 Voting status에서 반영된 투표 결과가 노출됩니다. \
 &#x20;  6-3. 이미 완료된 투표는 수정이 불가능하며 진행하지 않은 투표는 투표가 가능합니다.
 
-<figure><img src="../.gitbook/assets/gitbook_image28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image28 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/gitbook_image29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/gitbook_image29 (1).png" alt=""><figcaption></figcaption></figure>
 
 7\. 다수의 투표권을 보유한 경우 투표권마다 다른 선택으로 투표가 가능합니다.&#x20;
 
