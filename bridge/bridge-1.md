@@ -10,6 +10,6 @@
 
 ### 헬프센터로 문의하기
 
-<figure><img src="../.gitbook/assets/PC_Help Center_FAQ.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/PC_Help Center_FAQ (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/PC_Submit a request.jpg" alt=""><figcaption></figcaption></figure>
