@@ -6,7 +6,7 @@ description: >-
 
 # XYLO Intro
 
-<figure><img src=".gitbook/assets/Frame 19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 19 (1).png" alt=""><figcaption></figcaption></figure>
 
 XYLO is a blockchain-based platform employing a new consensus algorithm called DpoI, or (Delegated Proof of Investment). The DPoI algorithm combines “community pool” and “investment” into the existing DPoS governance structure allowing for investors to explore a variety of new projects and increase the coin’s value through their own voting governance policies.
 
