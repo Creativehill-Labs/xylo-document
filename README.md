@@ -1,53 +1,34 @@
 ---
 description: >-
-  Welcome to the official documentation for XYLO. This document provides
-  concepts and guides related to XYLO.
+  Welcome to the official documentation of XYLO. This document provides concepts
+  and guides related to XYLO.
 ---
 
-# XYLO Intro
+# Welcome to XYLO
 
-<figure><img src=".gitbook/assets/Frame 19 (1).png" alt=""><figcaption></figcaption></figure>
+## What is XYLO?
 
-XYLO is a blockchain-based platform employing a new consensus algorithm called DpoI, or (Delegated Proof of Investment). The DPoI algorithm combines “community pool” and “investment” into the existing DPoS governance structure allowing for investors to explore a variety of new projects and increase the coin’s value through their own voting governance policies.
+Xylo is an advanced blockchain platform built specifically for tokenizing real-world assets (RWAs). From real estate and bonds to equities, artwork, and business rights, we bring a wide range of tangible assets onto the blockchain to enhance both liquidity and transparency. Our platform overcomes the limitations of traditional finance by creating a decentralized environment where global investors can participate freely. With a user-friendly mobile app and highly secure MPC (Multi-Party Computation) wallet, Xylo delivers seamless and safe asset management experiences.
 
-{% hint style="info" %}
-DPoI(The Deleted Proof of Investment) is a consensus method that produces a representative node able to exercise voting rights proportional to the stake invested to execute decision-making authority.
-{% endhint %}
+<figure><img src=".gitbook/assets/Frame 19.png" alt=""><figcaption></figcaption></figure>
 
-XYLO produces rewards proportional to the amount invested in a community pool without the high cost and maintenance of mining equipment to maintain the network. On most existing platforms, institutional investors have expanded their ecosystems through initial investments at low prices which often yield huge returns and rewards from rising coin prices.
+Xylo is a complete, end-to-end solution for RWA tokenization, supporting the entire asset lifecycle:
 
-XYLO provides transparency regarding investment funds through proposals and votes, recording them on the blockchain. Unlike traditional staking platforms, XYLO manages an “active” type of investment reaching into other projects, signifying more than mere value adjustment or asset management. Furthermore, the operator does not use the investment arbitrarily, and all investment decisions are executed through investors' votes. Anyone can monitor the usage of his/her investment, and investors' opinions are absolute when it comes to how that investment is leveraged.
+* Tokenization technology for physical assets
+* Launchpad for RWA investment opportunities
+* Secure digital custody infrastructure
+* Intuitive mobile wallet for easy access
 
-XYLO voting differs slightly from the traditional concept of voting which need to be understood. As opposed to one vote per person, voting rights are weighed proportionally to the amount invested. When investors remit their investment to the community pool, they will receive the same amount of XYLO Owner Power as their investment. XYLO Owner Power is the voting right mentioned above and the currency that represents one's stake when receiving rewards. Additionally, voting takes place in a delegated structure as opposed to the direct format as often is perceived. This new consensus method is almost an identical benchmark of the widely known delegative democracy.
+***
 
-Funds raised in XYLO's community pool will be used as investment capital to improve and update networks as well as support potential new crypto projects such as NFT and defi to launch on the mainnet. Investors investing in TOKEN may freely discuss, propose, and vote to participate in governance that determines the direction of the community, and receive fair share of the rewards pertaining to community power and platform expansion. The cycle of contribution, expansion, and rewards creates a virtuous cycle in which XYLO and its community pool may grow to be more active ultimately resulting in higher profits for its investors.
+## Problem & Solution
 
-### XYLO Consortium
+Investing in physical assets through traditional finance is often restricted to a small group of institutional investors due to high minimum investment thresholds, illiquid markets, and inefficient transaction processes. Xylo addresses these challenges with a blockchain-based tokenization model that lowers the barrier to entry. Investors can now gain exposure to a diverse range of real-world assets with fractional investments. Smart contracts ensure transparent, automated transactions, while our decentralized platform reduces reliance on costly intermediaries. Furthermore, by integrating with the broader DeFi ecosystem, we unlock secondary market liquidity and enhance investor returns, transforming how traditional assets are accessed and managed.
 
-<figure><img src=".gitbook/assets/Group 181.png" alt=""><figcaption></figcaption></figure>
+***
 
-XYLO's reward philosophy is to provide more rewards to those who have invested more in platforms and communities. XYLO is a platform where you can make more profits by investing in your TOKEN
+## Mission & Vision&#x20;
 
-{% tabs %}
-{% tab title="Standard reward" %}
-* 70% of total reward.
-* Differently rewarded to all investors based on stake.
-* Differently rewarded to all XO, according to their voting power.
-{% endtab %}
+**Mission:**  Our mission is to transform the global financial system by connecting real-world assets to the blockchain. We aim to empower all investors—regardless of wealth or location—with access to fair, transparent, and efficient financial services. By providing sufficient liquidity to traditionally illiquid assets, we are building a new ecosystem where ownership and capital flow more freely.
 
-{% tab title="Rank Reward" %}
-* 20% of total reward.
-* Differently rewarded to XYLO Owners and XYLO Owner Members in ranking 12 according to their ranking.
-{% endtab %}
-
-{% tab title=" Block production reward" %}
-* 10% of total reward.
-* Given to XYLO Owners and XYLO Owner Members in ranking 6.
-* To maintain network, XYLO Owner operate nodes and produce blocks.
-{% endtab %}
-
-{% tab title="XO activity reward" %}
-* 5% of XO's total reward.
-* It can be used as server maintenance, marketing, team activity cost.
-{% endtab %}
-{% endtabs %}
+**Vision:**  We aspire to lead the evolution of the RWA sector by resolving inefficiencies in legacy finance through blockchain innovation. With a commitment to ongoing technological advancement and strategic collaboration, Xylo will emerge as a trusted platform in the global financial landscape.
