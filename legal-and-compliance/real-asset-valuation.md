@@ -93,11 +93,11 @@ All documents can be embedded on-chain via NFT or IPFS to ensure immutability an
 
 ## What makes us different
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Category                   | Typical Projects                   | Our Platform (Xylo)                                                           |
+| -------------------------- | ---------------------------------- | ----------------------------------------------------------------------------- |
+| **Legal Review**           | Self-interpreted or omitted        | Direct engagement with local law firms for jurisdictional legal due diligence |
+| **Valuation**              | Self-declared or omitted           | Asset valuation conducted by partnered appraisers and credit rating agencies  |
+| **Accounting Analysis**    | Simplified summary or skipped      | Full financial review conducted by certified accounting firms                 |
+| **Information Disclosure** | Limited or selective public access | Verified documentation disclosed via IPFS and/or NFT-based on-chain storage   |
+| **Token Design Linkage**   | No value-based token logic         | Minting and burning mechanisms tied directly to verified asset value          |
 
