@@ -14,10 +14,8 @@ Design Principles:
 
 XLT is not designed for short-term speculation, but as a long-term growth asset linked to the fundamentals of real-world asset investment.
 
-<table><thead><tr><th width="192.47821044921875"></th><th width="102.107421875">Rate(%)</th><th width="181.74267578125">Amount (XLT)</th><th></th></tr></thead><tbody><tr><td>Pre-Sales</td><td>10%</td><td>1,000,000,000</td><td></td></tr><tr><td>Reserve</td><td>10%</td><td>1,000,000,000</td><td></td></tr><tr><td>Foundation &#x26; Dev</td><td>15%</td><td>1,500,000,000</td><td></td></tr><tr><td>Marketing</td><td>5%</td><td>500,000,000</td><td></td></tr><tr><td>Market Supply</td><td>60%</td><td>6,000,000,000</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="192.47821044921875">Allocation Categories</th><th width="102.107421875">Rate(%)</th><th width="181.74267578125">Amount (XLT)</th><th>Vesting Conditions</th></tr></thead><tbody><tr><td><strong>Pre-Sales</strong></td><td>10%</td><td>1,000,000,000</td><td>Unlocks after a 1-year lockup period</td></tr><tr><td><strong>Reserve</strong></td><td>10%</td><td>1,000,000,000</td><td>Held in reserve across USDT, USD, BTC, and U.S. Treasury Bonds; not intended for immediate use</td></tr><tr><td><strong>Foundation &#x26; Dev</strong></td><td>15%</td><td>1,500,000,000</td><td>1-year lockup, followed by linear vesting over 60 months</td></tr><tr><td><strong>Marketing</strong></td><td>5%</td><td>500,000,000</td><td>No lockup applied</td></tr><tr><td><strong>Market Supply</strong></td><td>60%</td><td>6,000,000,000</td><td>Strategic long-term liquidity control mechanism applied</td></tr></tbody></table>
 
 {% hint style="info" %}
 For a detailed breakdown of XLT token distribution, refer to the image below. &#x20;
 {% endhint %}
-
-<figure><img src="https://images.unsplash.com/photo-1741882239311-e769227bdee5?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDQ2OTc1MzR8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>

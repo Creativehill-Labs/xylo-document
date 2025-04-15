@@ -85,3 +85,10 @@ Core Modules
 * Uses IPFS and distributed ledger technology for storing critical external blockchain data.
 * Ensures long-term durability and audit readiness.
 
+| Pillar              | Trad-Fi System                                            | Our Hybrid Blockchain                             |
+| ------------------- | --------------------------------------------------------- | ------------------------------------------------- |
+| **Transparency**    | Centralized control over records                          | All transactions recorded on the blockchain       |
+| **Liquidity**       | Low liquidity of physical assets                          | Global tradability after RWA tokenization         |
+| **Security**        | High risk due to reliance on single-server infrastructure | Enhanced security via MPC and Multi-Sig protocols |
+| **Accessibility**   | Limited to qualified or institutional investors           | Open to global retail and institutional investors |
+| **Cost Efficiency** | High intermediary and brokerage fees                      | Cost reduction via smart contract automation      |
