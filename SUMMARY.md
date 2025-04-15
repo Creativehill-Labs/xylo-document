@@ -21,7 +21,7 @@
 * [Explorer 가이드](explorer/explorer.md)
 * [Explorer 자주하는 질문](explorer/explorer-1.md)
 
-## 🏛 FORUM
+## 🏛️ FORUM
 
 * [Forum 가이드](forum/forum.md)
 * [Forum 자주 하는 질문](forum/forum-1.md)
