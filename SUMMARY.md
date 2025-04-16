@@ -1,36 +1,51 @@
 # Table of contents
 
-* [XYLO Intro](README.md)
-  * [XYLO VC Process](xylo-intro/xylo-vc-process.md)
-* [XYLO ALL IN ONE GUIDE](xylo-all-in-one-guide.md)
+* [Welcome to XYLO](README.md)
+* [Project Overview](project-overview/README.md)
+  * [XYLO Core Values](project-overview/xylo-core-values.md)
+  * [Liquidity Provision](project-overview/liquidity-provision.md)
 
-## 📱 XYLO APP
+## ✅ Key Features & Services
 
-* [Get Starded](xylo-app/get-starded.md)
-* [Concepts](xylo-app/concepts.md)
-* [Use XYLO](xylo-app/use-xylo.md)
+* [Tokenization](key-features-and-services/tokenization.md)
+* [Multi Blockchains](key-features-and-services/multi-blockchains.md)
+* [Process & Secondary Trading](key-features-and-services/process-and-secondary-trading.md)
+* [XLT Token](key-features-and-services/xlt-token.md)
+* [XYLO Mobile Wallet](key-features-and-services/xylo-mobile-wallet.md)
+* [XYLO RWA Assets](key-features-and-services/xylo-rwa-assets.md)
+* [Automated Asset Valuation Process](key-features-and-services/automated-asset-valuation-process.md)
 
-## 🌉 BRIDGE
+## 💠 Technology Architecture
 
-* [Use Bridge](bridge/use-bridge.md)
-* [Bridge large amount conversion](bridge/bridge-large-amount-conversion.md)
-* [FAQ](bridge/faq.md)
+* [Blockchain & Smart contract](technology-architecture/blockchain-and-smart-contract.md)
+* [XYLO Launchpad](technology-architecture/xylo-launchpad.md)
+* [MPC & Security](technology-architecture/mpc-and-security.md)
 
-## 🔍 EXPLORER
+## 📊 Tokenomics
 
-* [Use Explorer](explorer/use-explorer.md)
-* [FAQ](explorer/faq.md)
+* [XLT Overview](tokenomics/xlt-overview.md)
+* [Supply Distribution Plan](tokenomics/supply-distribution-plan.md)
+* [Use & Burning Procedure](tokenomics/use-and-burning-procedure.md)
+* [Token Economic Structure](tokenomics/token-economic-structure.md)
 
-## 🏛️ FORUM
+## 📄 Legal & Compliance
 
-* [Use Forum](forum/use-forum.md)
-* [FAQ](forum/faq.md)
+* [Real Asset Valuation](legal-and-compliance/real-asset-valuation.md)
+* [Global Compliance](legal-and-compliance/global-compliance.md)
+* [Asset Protection & Security Policy](legal-and-compliance/asset-protection-and-security-policy.md)
 
-## 🪙 TOKENOMICS
+## 📍 Roadmap
 
-* [TOKEN 1](tokenomics/token-1.md)
-* [XOP](tokenomics/token-2.md)
+* [Development Schedule](roadmap/development-schedule.md)
+* [Global Expansion](roadmap/global-expansion.md)
 
-## LINK
+## 🧑‍🤝‍🧑 Team & Partners
 
-* [Page 1](link/page-1.md)
+* [Team Members](team-and-partners/team-members.md)
+* [Professional Organization](team-and-partners/professional-organization.md)
+* [Partnership and Affiliate Network](team-and-partners/partnership-and-affiliate-network.md)
+
+## Community & Ambassador
+
+* [Community](community-and-ambassador/community.md)
+* [Ambassador](community-and-ambassador/ambassador.md)
