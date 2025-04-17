@@ -28,7 +28,7 @@ Advantages:
 * Tamper-Proof Access: Unless all key fragments are compromised simultaneously, unauthorized access is virtually impossible.
 * Secure Recovery & Mobility: Even during wallet recovery or migration, security is preserved, and the user experience remains seamless.
 
-<figure><img src="../.gitbook/assets/Frame 1000004598 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 1000004598 (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
