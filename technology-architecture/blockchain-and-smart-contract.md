@@ -75,6 +75,8 @@ Core Modules
 * **MPC:** Distributes key storage across multiple parties, preventing single-point failures.
 * **Multi-Sig:** Requires multiple approvals before executing sensitive transactions.
 
+<figure><img src="../.gitbook/assets/Frame 1000004594.png" alt=""><figcaption></figcaption></figure>
+
 ### 4-2. On-Chain Data Integrity (Private Chain)
 
 * All key processes (valuation, subscription, allocation) are monitored by trusted institutions.

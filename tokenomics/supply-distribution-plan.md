@@ -11,3 +11,5 @@ Release Conditions:
 * The market price of XLT rises above a predetermined target level.
 
 This mechanism helps prevent oversupply, encourages organic value growth based on real demand, and strengthens investor confidence by incentivizing long-term holding.
+
+<figure><img src="../.gitbook/assets/Frame 1000008392 (1).png" alt=""><figcaption></figcaption></figure>

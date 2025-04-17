@@ -2,6 +2,8 @@
 
 In the tokenization of real-world assets (RWAs), accurate valuation, trustworthiness, and transparency are critical. Xylo achieves this through a comprehensive framework involving global credit rating agencies, independent audit firms, and smart contract-based automation, enabling fast and secure asset tokenization at scale.
 
+<figure><img src="../.gitbook/assets/Frame 1000008387 (1).png" alt=""><figcaption></figcaption></figure>
+
 ### 1. Valuation & Verification: 3-Layered Structure
 
 The RWA tokenization process includes 3 integrated stages:
@@ -48,6 +50,8 @@ The tokenization process is verified by globally recognized audit firms to ensur
 ### 4. Automated Validation: Smart Contract-Powered Processes
 
 To enhance efficiency and remove human error, our platform employs fully automated smart contract systems for asset validation and compliance checks.
+
+<figure><img src="../.gitbook/assets/Frame 1000008384.png" alt=""><figcaption></figcaption></figure>
 
 #### 4.1) AI-Powered Data Collection & Analysis
 

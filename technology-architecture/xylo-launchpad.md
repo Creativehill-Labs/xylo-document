@@ -1,5 +1,7 @@
 # XYLO Launchpad
 
+<figure><img src="../.gitbook/assets/Frame 1000004593.png" alt=""><figcaption></figcaption></figure>
+
 The Xylo Launchpad is a blockchain-powered platform for investing in tokenized real-world assets (RWAs). It is designed to help users easily discover, analyze, and subscribe to a wide range of RWA opportunities—anytime, anywhere, through web or mobile.
 
 Key Features:&#x20;
@@ -8,6 +10,8 @@ Key Features:&#x20;
 * Strong security using MPC and Multi-Sig
 * Transparent smart contract-based subscription processes
 * Intuitive and user-friendly interface
+
+<figure><img src="../.gitbook/assets/connect wallet (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Access & Login
 
@@ -22,6 +26,8 @@ Security:
 * Multi-layer asset protection using MPC & Multi-Sig
 
 ***
+
+<figure><img src="../.gitbook/assets/Frame 1000008388 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Explore Investment Opportunities
 
@@ -39,6 +45,8 @@ UX Features:
 * Visual display of token price changes and remaining availability
 
 ***
+
+<figure><img src="../.gitbook/assets/Frame 1000008337.png" alt=""><figcaption></figcaption></figure>
 
 ### 3. RWA Product Details
 
@@ -67,6 +75,8 @@ Allocation Modes:
 
 * FCFS: Immediate confirmation of allocation
 * Lottery: Users lock funds for a period and are selected randomly. Refunds processed for unsuccessful entries.
+
+<figure><img src="../.gitbook/assets/Frame 1000004596.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

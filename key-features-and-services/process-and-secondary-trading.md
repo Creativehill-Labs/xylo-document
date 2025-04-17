@@ -8,6 +8,8 @@
 4. External Token Minting & Secondary Market Trading
 5. On-Chain Monitoring & Data Synchronization
 
+<figure><img src="../.gitbook/assets/Frame 1000004589 (1).png" alt=""><figcaption></figcaption></figure>
+
 ### _Step-by-Step Breakdown_
 
 #### <mark style="background-color:purple;">1. Token Issuance and Logging on Internal Blockchain</mark>

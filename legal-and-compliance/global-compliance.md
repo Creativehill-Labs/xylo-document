@@ -36,6 +36,8 @@ Our platform enables the tokenization of real-world assets (RWA), allowing globa
 {% endstep %}
 {% endstepper %}
 
+<figure><img src="../.gitbook/assets/Frame 1000008399 (1).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## 2. Detailed Breakdown by Phase

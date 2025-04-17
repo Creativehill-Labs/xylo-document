@@ -1,5 +1,7 @@
 # XLT Token
 
+<figure><img src="../.gitbook/assets/Frame 1000004411 (1).png" alt=""><figcaption></figcaption></figure>
+
 ## 1. Introduction to XLT
 
 XLT is the native governance and utility token of the Xylo ecosystem, designed to facilitate participation in RWA (Real World Asset) investments. While it can be freely traded on multiple exchanges, its core purpose lies in enabling early access to high-quality RWA offerings via the Xylo Launchpad.
@@ -72,6 +74,8 @@ XLT is the native governance and utility token of the Xylo ecosystem, designed t
 * XUSD is fully backed with USDT and U.S. dollar reserves, maintaining stable value.
 {% endstep %}
 {% endstepper %}
+
+<figure><img src="../.gitbook/assets/Frame 1000004590.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

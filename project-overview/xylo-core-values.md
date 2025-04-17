@@ -2,6 +2,8 @@
 
 Xylo’s RWA initiative goes beyond digitizing assets—it’s about reshaping the future of finance by bridging real-world value with decentralized technology. Our values reflect our commitment to inclusivity, transparency, and long-term innovation.
 
+<figure><img src="../.gitbook/assets/Frame 1000004539 (1).png" alt=""><figcaption></figcaption></figure>
+
 1. **Democratization of Asset Ownership**\
    We open access to investment opportunities traditionally reserved for institutions or the wealthy. Through tokenization, anyone can invest in real-world assets with small amounts, promoting broader financial participation.
 2. **Enhanced Transparency & Trust**\

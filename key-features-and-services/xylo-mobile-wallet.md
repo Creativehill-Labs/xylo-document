@@ -1,5 +1,7 @@
 # XYLO Mobile Wallet
 
+<figure><img src="../.gitbook/assets/Frame 1000008396 (2).png" alt=""><figcaption></figcaption></figure>
+
 ## 1. Overview
 
 The Xylo Mobile App is a secure, intuitive gateway for managing digital assets, participating in RWA investments, and accessing blockchain-based financial services. It removes the complexity of traditional crypto wallets and is optimized for both new and experienced users.
@@ -25,6 +27,8 @@ The Xylo Mobile App is a secure, intuitive gateway for managing digital assets, 
 * Easily convert XLT to XUSD to access RWA investments.
 * Swap between major cryptocurrencies (BTC, ETH, USDT) instantly.
 * Supports flexible portfolio management.
+
+<figure><img src="../.gitbook/assets/Frame 1000004602.png" alt=""><figcaption></figcaption></figure>
 
 ### 2-4. Direct RWA Launchpad Access
 

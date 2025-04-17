@@ -19,3 +19,5 @@ XLT is not designed for short-term speculation, but as a long-term growth asset 
 {% hint style="info" %}
 For a detailed breakdown of XLT token distribution, refer to the image below. &#x20;
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/Frame 1000004599 (1).png" alt=""><figcaption></figcaption></figure>

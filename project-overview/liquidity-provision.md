@@ -12,6 +12,8 @@ One of the central goals of Xylo is to bring blockchain-based liquidity into the
 
 **Proven Transparency:** Blockchain ensures a secure, immutable record of all transactions.
 
+<figure><img src="../.gitbook/assets/Frame 1000004542.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ### 1. Token Creation and Trading

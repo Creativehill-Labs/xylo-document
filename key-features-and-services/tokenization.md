@@ -4,6 +4,8 @@ Xylo’s RWA tokenization technology enables the digital transformation of real-
 
 Our tokenization process combines private (internal) and public (external) blockchains to ensure secure, transparent, and scalable asset lifecycle management across **5 key phases**:
 
+<figure><img src="../.gitbook/assets/Frame 1000004587 (1).png" alt=""><figcaption></figcaption></figure>
+
 ### 1. Asset Analysis and Valuation
 
 * Certified appraisers and auditors assess the asset’s value through our internal blockchain.

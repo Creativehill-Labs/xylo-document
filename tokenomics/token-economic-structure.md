@@ -32,5 +32,7 @@ More users join and invest → More XLT is burned  → Circulating supply decr
 
 **Result:** 10% of the total supply permanently burned, significantly increasing market scarcity and potential market cap.
 
+<figure><img src="../.gitbook/assets/Frame 1000008389 (1).png" alt=""><figcaption></figcaption></figure>
+
 
 

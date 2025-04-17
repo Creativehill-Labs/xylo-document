@@ -2,6 +2,8 @@
 
 Xylo leverages a hybrid blockchain model—combining the speed and control of a private chain with the global accessibility of public blockchains—to optimize performance and security throughout the RWA lifecycle.
 
+<figure><img src="../.gitbook/assets/Frame 1000008385.png" alt=""><figcaption></figcaption></figure>
+
 ### 1. Key Benefits of the Multi-Chain Model
 
 🔹  <mark style="color:purple;background-color:purple;">Internal Blockchain Advantages</mark>&#x20;

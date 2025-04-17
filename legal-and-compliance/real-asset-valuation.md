@@ -89,6 +89,8 @@ All documents can be embedded on-chain via NFT or IPFS to ensure immutability an
 {% endstep %}
 {% endstepper %}
 
+<figure><img src="../.gitbook/assets/Frame 1000008397 (1).png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## What makes us different

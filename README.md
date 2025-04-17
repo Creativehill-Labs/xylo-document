@@ -10,7 +10,7 @@ description: >-
 
 Xylo is an advanced blockchain platform built specifically for tokenizing real-world assets (RWAs). From real estate and bonds to equities, artwork, and business rights, we bring a wide range of tangible assets onto the blockchain to enhance both liquidity and transparency. Our platform overcomes the limitations of traditional finance by creating a decentralized environment where global investors can participate freely. With a user-friendly mobile app and highly secure MPC (Multi-Party Computation) wallet, Xylo delivers seamless and safe asset management experiences.
 
-<figure><img src=".gitbook/assets/Frame 19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Frame 1000004591.png" alt=""><figcaption></figcaption></figure>
 
 Xylo is a complete, end-to-end solution for RWA tokenization, supporting the entire asset lifecycle:
 
@@ -18,6 +18,8 @@ Xylo is a complete, end-to-end solution for RWA tokenization, supporting the ent
 * Launchpad for RWA investment opportunities
 * Secure digital custody infrastructure
 * Intuitive mobile wallet for easy access
+
+<figure><img src=".gitbook/assets/Frame 1000004538.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

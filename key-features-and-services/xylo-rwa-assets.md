@@ -2,6 +2,8 @@
 
 The Xylo RWA initiative is designed to unlock the potential of traditionally illiquid assets by tokenizing them on the blockchain, transforming them into globally tradable investment opportunities. In its early phase, Xylo will directly issue high-value, niche RWA products that offer both stability and profitability.
 
+<figure><img src="../.gitbook/assets/Frame 1000004592.png" alt=""><figcaption></figcaption></figure>
+
 ## Why Xylo RWA Investments Stand Out
 
 1. **High Liquidity**  \
