@@ -2,8 +2,10 @@
 
 ## 🏢 **Asset Verification Committee**
 
-**Responsibilities**: Legal due diligence, title verification, site inspections\
-**Key Personnel**:
+**Responsibilities**: \
+Legal due diligence, title verification, site inspections
+
+#### **Key Personnel**:
 
 * Real estate lawyers (domestic & international)
 * Certified appraisers & on-site investigators
@@ -11,8 +13,10 @@
 
 ## 🏛️ **Audit & Valuation Committee**
 
-**Responsibilities**: Market-based valuation, financial statement reviews\
-**Key Personnel**:
+**Responsibilities**: \
+Market-based valuation, financial statement reviews
+
+#### **Key Personnel**:
 
 * Certified Public Accountants (IFRS-focused)
 * Appraisers for real estate & fixed income
@@ -20,8 +24,10 @@
 
 ## **🏢 Blockchain Development Unit**
 
-**Responsibilities**: Token issuance, wallet infra, contract security\
-**Key Personnel**:
+**Responsibilities**: \
+Token issuance, wallet infra, contract security
+
+#### **Key Personnel**:
 
 * Smart contract developers (Solidity, Rust)
 * Blockchain architects & infra engineers
@@ -29,8 +35,10 @@
 
 ## **📌 Structured Finance Unit**
 
-**Responsibilities**: Yield model design, investor offer structuring\
-**Key Personnel**:
+**Responsibilities**: \
+Yield model design, investor offer structuring
+
+#### **Key Personnel**:
 
 * Structured finance specialists from investment banks
 * Product designers for RWA-based instruments
@@ -38,8 +46,10 @@
 
 ## **📌 Legal & Compliance Unit**
 
-**Responsibilities**: Full-cycle compliance oversight, AML policy enforcement\
-**Key Personnel**:
+**Responsibilities**: \
+Full-cycle compliance oversight, AML policy enforcement
+
+#### **Key Personnel**:
 
 * Certified AML officers (CAMs or equivalent)
 * Blockchain regulatory lawyers (cross-border expertise)

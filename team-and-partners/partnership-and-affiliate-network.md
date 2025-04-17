@@ -14,19 +14,21 @@ To achieve this, we’ve established robust partnerships with leading legal, val
 
 ## 🇺🇸 North America (United States)
 
-**Legal Advisory**\
+#### **Legal Advisory**
+
 Specialized in digital assets, securities law, and SPV structuring:
 
 * Latham & Watkins LLP
 * Perkins Coie LLP
 
-**Accounting & Valuation**\
+#### **Accounting & Valuation**
+
 Periodic valuation of commercial and development assets:
 
 * Deloitte US Real Estate Division
 * JLL Valuation Advisory
 
-**Custody & Monitoring**
+#### **Custody & Monitoring**
 
 * Anchorage Digital (Digital Asset Custody)
 * Fireblocks
@@ -36,19 +38,21 @@ Periodic valuation of commercial and development assets:
 
 ## 🇪🇺 Europe (EU & UK)
 
-**Legal Advisory**\
+#### **Legal Advisory**
+
 Expertise in EU MiCA regulations, AMLD, and PRIIPs compliance:
 
 * CMS Law Europe
 * Clifford Chance LLP
 
-**Valuation & Investment Analysis**\
+#### **Valuation & Investment Analysis**
+
 Commercial and mixed-use property assessments:
 
 * PwC Luxembourg
 * Knight Frank LLP
 
-**Risk Surveillance**
+#### **Risk Surveillance**
 
 * European Blockchain Observatory & Forum
 * Chainalysis Europe
@@ -57,17 +61,18 @@ Commercial and mixed-use property assessments:
 
 ## 🇸🇦 Middle East & North Africa (MENA)
 
-**Legal Advisory**\
+#### **Legal Advisory**
+
 Focused on real estate ownership laws and Shariah-compliant structures:
 
 * Al Tamimi & Company (UAE, Saudi Arabia)
 
-**Asset Due Diligence & Verification**
+#### **Asset Due Diligence & Verification**
 
 * Colliers International MENA
 * EY MENA Real Estate Advisory
 
-**AML & Compliance**
+#### **AML & Compliance**
 
 * Partners certified by the Dubai Financial Services Authority (DFSA)
 * ADGM RegLab compliance advisors
@@ -76,18 +81,19 @@ Focused on real estate ownership laws and Shariah-compliant structures:
 
 ## 🇸🇬 🇹🇭 🇻🇳 Southeast Asia (Singapore, Thailand, Vietnam)
 
-**Legal & Government Advisory**\
+#### **Legal & Government Advisory**
+
 Foreign investment structuring and real estate law:
 
 * Rajah & Tann Asia (Singapore, Vietnam)
 * Siam Premier Law (Thailand)
 
-**Valuation & Real Estate Analysis**
+#### **Valuation & Real Estate Analysis**
 
 * CBRE Southeast Asia
 * KPMG Vietnam Real Estate Team
 
-**RWA Investment Partnerships**
+#### **RWA Investment Partnerships**
 
 * MAS-licensed VASP network
 * ASEAN Financial Institutions & Digital Asset Associations
@@ -96,18 +102,19 @@ Foreign investment structuring and real estate law:
 
 ## 🇰🇷 🇯🇵 🇹🇼 Northeast Asia (Korea, Japan, Taiwan)
 
-**Legal & Regulatory Advisory**\
+#### **Legal & Regulatory Advisory**
+
 Advisory on digital asset law, FX regulations, and investor protection:
 
 * Kim & Chang (Korea)
 * Nishimura & Asahi (Japan)
 
-**Valuation Partners**
+#### **Valuation Partners**
 
 * Samjong KPMG (Real Estate Division – Korea)
 * Daiwa Real Estate Appraisal (Japan)
 
-**Blockchain & Custody Integration**
+#### **Blockchain & Custody Integration**
 
 * HashKey Group (Hong Kong)
 * Hexlant (Korea)

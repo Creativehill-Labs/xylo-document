@@ -73,5 +73,3 @@ We will onboard global RWA experts who review new listings and provide on-chain 
 _**Xylo is not just a tokenization platform. We are building the global liquidity hub for real-world assets, where institutions, individuals, and crypto-native communities converge to redefine digital finance.**_
 
 > “Trust the Real Value. Expand the Real World.” — Xylo
-
-***

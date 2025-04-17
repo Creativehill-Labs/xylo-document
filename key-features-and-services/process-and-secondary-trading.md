@@ -10,7 +10,7 @@
 
 ### _Step-by-Step Breakdown_
 
-#### <mark style="background-color:green;">1. Token Issuance and Logging on Internal Blockchain</mark>
+#### <mark style="background-color:purple;">1. Token Issuance and Logging on Internal Blockchain</mark>
 
 * RWA tokens are initially minted on the internal blockchain.
 * All metadata (e.g. ownership, legal status, token supply) is securely stored and validated by internal nodes.
@@ -18,7 +18,7 @@
 
 ***
 
-#### <mark style="background-color:green;">2. Transfer Request and Validation</mark>
+#### <mark style="background-color:purple;">2. Transfer Request and Validation</mark>
 
 * Users submit requests to transfer tokens from the internal chain to a public chain.
 * Requests can involve single or multiple RWA assets, including cross-asset bundling.
@@ -31,13 +31,13 @@
 
 ***
 
-#### <mark style="background-color:green;">3. Bridge or Wrapping Mechanism Activation</mark>
+#### <mark style="background-color:purple;">3. Bridge or Wrapping Mechanism Activation</mark>
 
-(1) Cross-Chain Bridge:\
+**(1) Cross-Chain Bridge:**\
 A smart contract-based infrastructure facilitating token migration between private and public chains.
 
 **How it works**\
-When a user initiates a transfer, the bridge protocol <mark style="color:orange;">locks the corresponding tokens on the internal blockchain</mark>, ensuring that they cannot be duplicated or reused. Simultaneously, <mark style="color:orange;">an equivalent amount of tokens is minted on the external blockchain</mark>, maintaining a strict 1:1 ratio. Once minted, the user <mark style="color:orange;">receives the new tokens on the external chain</mark>, which can then be freely traded across supported CEXs, DEXs, or DeFi platforms—enabling seamless cross-chain liquidity without compromising asset integrity.
+When a user initiates a transfer, the bridge protocol <mark style="color:purple;">locks the corresponding tokens on the internal blockchain</mark>, ensuring that they cannot be duplicated or reused. Simultaneously, <mark style="color:purple;">an equivalent amount of tokens is minted on the external blockchain</mark>, maintaining a strict 1:1 ratio. Once minted, the user <mark style="color:purple;">receives the new tokens on the external chain</mark>, which can then be freely traded across supported CEXs, DEXs, or DeFi platforms—enabling seamless cross-chain liquidity without compromising asset integrity.
 
 **Tech Features**
 
@@ -47,18 +47,18 @@ When a user initiates a transfer, the bridge protocol <mark style="color:orange;
 **\[Example]**  \
 Ethereum ↔ BNB Chain (Custom-built RWA bridges in development)
 
-(2) Wrapping Mechanism:\
+**(2) Wrapping Mechanism:**\
 A technique to represent internal tokens as wrapped assets on external blockchains.
 
 **How it works**\
-When tokens are <mark style="color:orange;">deposited into a smart contract on the internal blockchain</mark>, a <mark style="color:orange;">wrapped token of equal value is minted on the public chain</mark>, preserving the integrity of the underlying asset. These wrapped tokens can then be <mark style="color:orange;">freely traded across public networks</mark>, including CEXs, DEXs, and DeFi protocols. For reverse conversion, a <mark style="color:orange;">burn-and-release mechanism</mark> is applied—burning the wrapped token on the public chain and <mark style="color:orange;">releasing the original token</mark> from the internal chain—ensuring seamless interoperability and trust across both ecosystems.
+When tokens are <mark style="color:purple;">deposited into a smart contract on the internal blockchain</mark>, a <mark style="color:purple;">wrapped token of equal value is minted on the public chain</mark>, preserving the integrity of the underlying asset. These wrapped tokens can then be <mark style="color:purple;">freely traded across public networks</mark>, including CEXs, DEXs, and DeFi protocols. For reverse conversion, a <mark style="color:purple;">burn-and-release mechanism</mark> is applied—burning the wrapped token on the public chain and <mark style="color:purple;">releasing the original token</mark> from the internal chain—ensuring seamless interoperability and trust across both ecosystems.
 
 **\[Example]**\
 Wrapped RWA-WETH (Ethereum-compatible RWA token)
 
 ***
 
-#### <mark style="background-color:green;">4. External Token Minting & Secondary Market Trading</mark>
+#### <mark style="background-color:purple;">4. External Token Minting & Secondary Market Trading</mark>
 
 * RWA tokens are registered on CEXs, DEXs, and DeFi platforms.
 * Investors can trade, stake, or use tokens as collateral.
@@ -66,7 +66,7 @@ Wrapped RWA-WETH (Ethereum-compatible RWA token)
 
 ***
 
-#### <mark style="background-color:green;">5. On-Chain Monitoring & Data Synchronization</mark>
+#### <mark style="background-color:purple;">5. On-Chain Monitoring & Data Synchronization</mark>
 
 **Data Sync Mechanism**
 

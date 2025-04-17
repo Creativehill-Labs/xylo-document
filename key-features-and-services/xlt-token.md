@@ -39,27 +39,39 @@ XLT is the native governance and utility token of the Xylo ecosystem, designed t
 
 ## 3. XLT Token Flow & Investment Journey
 
-1️⃣  **Acquire XLT**
+{% stepper %}
+{% step %}
+#### Acquire XLT
 
 * Users purchase XLT on supported exchanges.
+{% endstep %}
 
-2️⃣  **Access the RWA Launchpad**
+{% step %}
+**Access the RWA Launchpa**
 
 * XLT holders gain access to early-stage RWA investment opportunities.
+{% endstep %}
 
-3️⃣  **Convert XLT to XUSD**
+{% step %}
+**Convert XLT to XUSD**
 
 * Conversion is required for participating in RWA subscription events.
 * All converted XLT is permanently burned.
+{% endstep %}
 
-4️⃣  **Invest in RWA Offerings**
+{% step %}
+**Invest in RWA Offerings**
 
 * Use XUSD to invest in tokenized RWA products.
 * Post-subscription, tokens can be freely traded on CEXs, DEXs, and DeFi platforms.
+{% endstep %}
 
-5️⃣   **Stability Assurance**
+{% step %}
+**Stability Assurance**
 
 * XUSD is fully backed with USDT and U.S. dollar reserves, maintaining stable value.
+{% endstep %}
+{% endstepper %}
 
 ***
 
@@ -90,5 +102,3 @@ XLT is the native governance and utility token of the Xylo ecosystem, designed t
 _**XLT is not just a governance token—it is a gateway to premium real-world investments. With its deflationary model, stablecoin integration, and utility-driven design, XLT powers a sustainable investment ecosystem built for long-term growth.**_
 
 _**By holding XLT, users gain priority access to high-potential RWA investments, while also participating in a deflationary token economy where scarcity increases over time.  XLT is not just a tradable asset—it is positioned to become a foundational element of the future blockchain-based investment ecosystem.**_
-
-***

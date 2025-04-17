@@ -6,10 +6,14 @@
 2. 100% of converted XLT is permanently burned.
 3. XUSD is used exclusively for participating in tokenized RWA offerings.
 
+***
+
 ## Dividend & Yield Payments
 
 1. Dividends from RWA investments are distributed in XUSD.
 2. The required amount of XUSD is minted by burning equivalent XLT, maintaining deflationary pressure.
+
+***
 
 ## Summary: Primary XLT Burn Events
 

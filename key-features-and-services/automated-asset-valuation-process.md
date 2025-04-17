@@ -4,7 +4,7 @@ In the tokenization of real-world assets (RWAs), accurate valuation, trustworthi
 
 ### 1. Valuation & Verification: 3-Layered Structure
 
-The RWA tokenization process includes three integrated stages:
+The RWA tokenization process includes 3 integrated stages:
 
 * **Asset Valuation & Due Diligence**\
   Rapid and precise valuation with global credit agencies.
