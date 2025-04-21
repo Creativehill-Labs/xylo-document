@@ -53,7 +53,7 @@ To enhance efficiency and remove human error, our platform employs fully automat
 
 <figure><img src="../.gitbook/assets/Frame 1000008384.png" alt=""><figcaption></figcaption></figure>
 
-#### 4.1) AI-Powered Data Collection & Analysis
+4.1) AI-Powered Data Collection & Analysis
 
 * Automatically aggregates public financial data, historical price trends, and transaction records.
 * AI-driven algorithms assess asset volatility and associated risks.
