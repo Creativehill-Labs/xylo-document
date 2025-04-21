@@ -1,7 +1,7 @@
 # Community
 
 {% hint style="info" %}
-"To access the embed link, click the caption below the logo."
+"To access the embedded link, click the caption below the logo."
 {% endhint %}
 
 {% embed url="https://www.youtube.com/@XyloWorld" %}
