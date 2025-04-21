@@ -35,10 +35,14 @@ The Xylo Mobile App is a secure, intuitive gateway for managing digital assets, 
 * Participate in RWA subscriptions directly via the app.
 * Invest in real-world assets faster than in traditional finance.
 
+<figure><img src="../.gitbook/assets/Frame 1000008435 (1).png" alt=""><figcaption></figcaption></figure>
+
 ### 2-5. Real-Time Portfolio Dashboard
 
 * View your balances, transaction history, and investment progress at a glance.
 * Track XLT, XUSD, and other crypto assets in a unified interface.
+
+<figure><img src="../.gitbook/assets/Frame 1000008436 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2-6. Secure Server-Based Wallet
 
