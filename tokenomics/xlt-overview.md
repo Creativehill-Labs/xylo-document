@@ -20,4 +20,4 @@ XLT is not designed for short-term speculation, but as a long-term growth asset 
 For a detailed breakdown of XLT token distribution, refer to the image below. &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Frame 1000004599 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Group 1000008507.png" alt=""><figcaption></figcaption></figure>
