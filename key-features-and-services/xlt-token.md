@@ -12,7 +12,7 @@ XLT is the native governance and utility token of the Xylo ecosystem, designed t
 
 ### 2-1. Supply & Exchangeability
 
-* **Total Supply:** 1 billion XLT (1,000,000,000 XLT)
+* **Total Supply:** 10 billion XLT (10,000,000,000 XLT)
 * **Availability:** Tradable on major CEXs and DEXs. (See detailed [tokenomics](../tokenomics/xlt-overview.md) for distribution strategy.)
 
 ### 2-2. Launchpad Access
