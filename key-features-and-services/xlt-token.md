@@ -6,6 +6,12 @@
 
 XLT is the native governance and utility token of the Xylo ecosystem, designed to facilitate participation in RWA (Real World Asset) investments. While it can be freely traded on multiple exchanges, its core purpose lies in enabling early access to high-quality RWA offerings via the Xylo Launchpad.
 
+### 1-1. Token Address
+
+* [Transaction history (solscan.io)](https://solscan.io/token/XLTMy69uUrDzWBa9JX1xqPMTJxXSASFcMBCLq3Y3M3n)
+* <pre><code><strong>XLTMy69uUrDzWBa9JX1xqPMTJxXSASFcMBCLq3Y3M3n
+  </strong></code></pre>
+
 ***
 
 ## 2. Key Features of XLT
