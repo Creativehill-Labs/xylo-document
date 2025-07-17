@@ -53,7 +53,7 @@ To enhance efficiency and remove human error, our platform employs fully automat
 
 <figure><img src="../.gitbook/assets/Frame 1000008384.png" alt=""><figcaption></figcaption></figure>
 
-4.1) AI-Powered Data Collection & Analysis
+#### 4.1) AI-Powered Data Collection & Analysis
 
 * Automatically aggregates public financial data, historical price trends, and transaction records.
 * AI-driven algorithms assess asset volatility and associated risks.
@@ -63,7 +63,7 @@ To enhance efficiency and remove human error, our platform employs fully automat
 
 * Assets are evaluated against pre-defined tokenization standards.
 * If an asset meets the minimum credit rating, tokenization is auto-approved.
-* In case of discrepancies, fallback review processes are triggered automatically.
+* In case of discrepancies, feedback review processes are triggered automatically.
 
 #### 4.3) Immutable Blockchain Logging
 

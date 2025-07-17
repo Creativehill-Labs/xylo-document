@@ -55,7 +55,7 @@ XLT is the native governance and utility token of the Xylo ecosystem, designed t
 {% endstep %}
 
 {% step %}
-**Access the RWA Launchpa**
+**Access the RWA Launchpad**
 
 * XLT holders gain access to early-stage RWA investment opportunities.
 {% endstep %}
