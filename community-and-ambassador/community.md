@@ -1,6 +1,6 @@
 # Community
 
-&#x20;access the embedded link, click the caption below the logo."
+Access the embedded link, click the caption below the logo."
 
 {% embed url="https://linktr.ee/xyloworld" %}
 
@@ -22,7 +22,11 @@
 
 </details>
 
+<details>
+
+<summary><span data-gb-custom-inline data-tag="emoji" data-code="2716">✖️</span> (Twitter)</summary>
 
 
 
+</details>
 
