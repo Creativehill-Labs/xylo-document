@@ -1,9 +1,26 @@
 # Community
 
-{% hint style="info" %}
-"To access the embedded link, click the caption below the logo."
-{% endhint %}
+&#x20;access the embedded link, click the caption below the logo."
+
+{% embed url="https://linktr.ee/xyloworld" %}
+
+{% embed url="https://www.xylo.world/" %}
+
+{% embed url="https://play.google.com/store/apps/details?id=com.creativehill.xyloplus" %}
 
 {% embed url="https://www.youtube.com/@XyloWorld" %}
 
-<div><figure><img src="../.gitbook/assets/twitter.png" alt="" width="188"><figcaption><p><a href="https://x.com/Xylo_Token">X (twiiter)</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/linkedin.png" alt="" width="188"><figcaption><p><a href="https://www.linkedin.com/in/cheon-woon-im/">linkedin</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/telegram-6896827_1280.png" alt="" width="188"><figcaption><p><a href="https://t.me/+RbsbMMI9gURmODk1">telegram</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/pngimg.com - discord_PNG8.png" alt="" width="188"><figcaption><p><a href="https://discord.gg/CzSjrUjZ">Discord</a></p></figcaption></figure></div>
+{% embed url="http://pf.kakao.com/_Kjvxin" %}
+
+{% embed url="https://t.me/xyloworld" %}
+
+<details>
+
+<summary>X (Twitter)</summary>
+
+[https://x.com/Xylo\_Token](https://x.com/Xylo_Token)
+
+</details>
+
+
+
