@@ -16,7 +16,7 @@
 
 <details>
 
-<summary>✖️ (Twitter)</summary>
+<summary>𝐗 (Twitter)</summary>
 
 [https://x.com/Xylo\_Token](https://x.com/Xylo_Token)
 
