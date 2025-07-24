@@ -16,11 +16,13 @@
 
 <details>
 
-<summary>X (Twitter)</summary>
+<summary>✖️ (Twitter)</summary>
 
 [https://x.com/Xylo\_Token](https://x.com/Xylo_Token)
 
 </details>
+
+
 
 
 

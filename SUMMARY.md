@@ -49,3 +49,4 @@
 
 * [Community](community-and-ambassador/community.md)
 * [Ambassador](community-and-ambassador/ambassador.md)
+* [Brand Identity](community-and-ambassador/brand-identity.md)
