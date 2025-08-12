@@ -17,7 +17,7 @@
 
 ## Summary: Primary XLT Burn Events
 
-<figure><img src="../.gitbook/assets/Frame 1000004600 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 1000008439.png" alt=""><figcaption></figcaption></figure>
 
 | Event                            | Result                  |
 | -------------------------------- | ----------------------- |
