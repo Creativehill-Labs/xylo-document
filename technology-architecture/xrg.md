@@ -1,5 +1,6 @@
 ---
 description: 'XYLO Rights Graph (XRG): A Next-Generation RWA Tokenization Framework'
+hidden: true
 ---
 
 # XRG
