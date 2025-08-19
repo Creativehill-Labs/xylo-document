@@ -20,6 +20,7 @@
 * [Blockchain & Smart contract](technology-architecture/blockchain-and-smart-contract.md)
 * [XYLO Launchpad](technology-architecture/xylo-launchpad.md)
 * [MPC & Security](technology-architecture/mpc-and-security.md)
+* [XRG](technology-architecture/xrg.md)
 
 ## 📊 Tokenomics
 
