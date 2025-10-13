@@ -1,6 +1,6 @@
 # Brand Identity
 
-## Xylo Coin (XLT)
+## XYLO Coin (XLT)
 
 <div align="left"><figure><img src="../.gitbook/assets/xylo coin 3d.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
@@ -8,7 +8,7 @@
 
 
 
-## Xylo Logo
+## XYLO Logo
 
 <div><figure><img src="../.gitbook/assets/Frame 1000004565.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Frame 1000004566.png" alt=""><figcaption></figcaption></figure></div>
 

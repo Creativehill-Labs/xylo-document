@@ -1,6 +1,6 @@
 # Liquidity Provision
 
-One of the central goals of Xylo is to bring blockchain-based liquidity into the world of traditional real assets. By tapping into the decentralized finance (DeFi) ecosystem, we solve the issue of illiquidity that has long plagued real-world investments.
+One of the central goals of XYLO is to bring blockchain-based liquidity into the world of traditional real assets. By tapping into the decentralized finance (DeFi) ecosystem, we solve the issue of illiquidity that has long plagued real-world investments.
 
 &#x20;<mark style="background-color:green;">Key benefits:</mark>&#x20;
 

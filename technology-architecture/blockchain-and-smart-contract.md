@@ -2,12 +2,12 @@
 
 ## 1. Overview
 
-Xylo adopts a hybrid blockchain architecture that combines a private blockchain for internal operations and a public blockchain for external trading. This model enables us to optimize for transparency, security, liquidity, and scalability.
+XYLO adopts a hybrid blockchain architecture that combines a private blockchain for internal operations and a public blockchain for external trading. This model enables us to optimize for transparency, security, liquidity, and scalability.
 
 * **Private Blockchain:** Handles asset tokenization, subscription management, and regulatory compliance.
 * **Public Blockchain:** Supports global liquidity by allowing RWA tokens to be traded freely on CEXs, DEXs, and DeFi platforms.
 
-Through this dual-layered system, Xylo aims to establish a new financial paradigm where real-world assets become globally accessible and tradeable.
+Through this dual-layered system, XYLO aims to establish a new financial paradigm where real-world assets become globally accessible and tradeable.
 
 ***
 

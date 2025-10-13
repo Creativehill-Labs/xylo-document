@@ -1,6 +1,6 @@
 # Multi Blockchains
 
-Xylo leverages a hybrid blockchain model—combining the speed and control of a private chain with the global accessibility of public blockchains—to optimize performance and security throughout the RWA lifecycle.
+XYLO leverages a hybrid blockchain model—combining the speed and control of a private chain with the global accessibility of public blockchains—to optimize performance and security throughout the RWA lifecycle.
 
 <figure><img src="../.gitbook/assets/Frame 1000008385.png" alt=""><figcaption></figcaption></figure>
 

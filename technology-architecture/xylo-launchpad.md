@@ -2,11 +2,11 @@
 
 <figure><img src="../.gitbook/assets/Frame 1000004593.png" alt=""><figcaption></figcaption></figure>
 
-The Xylo Launchpad is a blockchain-powered platform for investing in tokenized real-world assets (RWAs). It is designed to help users easily discover, analyze, and subscribe to a wide range of RWA opportunities—anytime, anywhere, through web or mobile.
+The XYLO Launchpad is a blockchain-powered platform for investing in tokenized real-world assets (RWAs). It is designed to help users easily discover, analyze, and subscribe to a wide range of RWA opportunities—anytime, anywhere, through web or mobile.
 
 Key Features:&#x20;
 
-* Seamless access via Web3 wallets or Xylo accounts
+* Seamless access via Web3 wallets or XYLO accounts
 * Strong security using MPC and Multi-Sig
 * Transparent smart contract-based subscription processes
 * Intuitive and user-friendly interface
@@ -18,7 +18,7 @@ Key Features:&#x20;
 Login Options:
 
 * Web3 Wallet - Supports MetaMask, Trust Wallet, and other external wallets.
-* Xylo Account - Secure login via ID/password with 2FA (OTP, biometric authentication).
+* XYLO Account - Secure login via ID/password with 2FA (OTP, biometric authentication).
 
 Security:
 
@@ -63,7 +63,7 @@ Information Provided:
 
 ### 4. XUSD-Based Subscription
 
-Investments are made using XUSD, Xylo’s stablecoin.
+Investments are made using XUSD, XYLO’s stablecoin.
 
 Subscription Process:
 

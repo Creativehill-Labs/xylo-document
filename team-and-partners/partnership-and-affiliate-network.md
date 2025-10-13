@@ -6,7 +6,7 @@ description: >-
 
 # Partnership and Affiliate Network
 
-The Xylo project is more than a blockchain solution. As an RWA-based investment platform, we are focused on bridging jurisdictional differences in legal frameworks, accounting standards, asset markets, and compliance systems—building the trust required for cross-border asset digitization.
+The XYLO project is more than a blockchain solution. As an RWA-based investment platform, we are focused on bridging jurisdictional differences in legal frameworks, accounting standards, asset markets, and compliance systems—building the trust required for cross-border asset digitization.
 
 To achieve this, we’ve established robust partnerships with leading legal, valuation, compliance, and custody providers across North America, Europe, the Middle East, Southeast Asia, and Northeast Asia.
 

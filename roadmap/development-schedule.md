@@ -1,6 +1,6 @@
 # Development Schedule
 
-Xylo is building a comprehensive blockchain-based investment infrastructure for real-world assets. Our goal is to expand global investor access by tokenizing tangible assets. The roadmap includes the launch of our native XLT token, mobile app, launchpad, and exchange listings.
+XYLO is building a comprehensive blockchain-based investment infrastructure for real-world assets. Our goal is to expand global investor access by tokenizing tangible assets. The roadmap includes the launch of our native XLT token, mobile app, launchpad, and exchange listings.
 
 <figure><img src="../.gitbook/assets/Frame 1000004601 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ Xylo is building a comprehensive blockchain-based investment infrastructure for 
 
 <figure><img src="../.gitbook/assets/Frame 1000008434.png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="background-color:purple;">4. Xylo Mobile App Launch</mark>
+#### <mark style="background-color:purple;">4. XYLO Mobile App Launch</mark>
 
 * **Features:**
   * User-friendly interface for all experience levels

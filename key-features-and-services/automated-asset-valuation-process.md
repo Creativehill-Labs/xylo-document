@@ -1,6 +1,6 @@
 # Automated Asset Valuation Process
 
-In the tokenization of real-world assets (RWAs), accurate valuation, trustworthiness, and transparency are critical. Xylo achieves this through a comprehensive framework involving global credit rating agencies, independent audit firms, and smart contract-based automation, enabling fast and secure asset tokenization at scale.
+In the tokenization of real-world assets (RWAs), accurate valuation, trustworthiness, and transparency are critical. XYLO achieves this through a comprehensive framework involving global credit rating agencies, independent audit firms, and smart contract-based automation, enabling fast and secure asset tokenization at scale.
 
 <figure><img src="../.gitbook/assets/Frame 1000008387 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -75,11 +75,11 @@ To enhance efficiency and remove human error, our platform employs fully automat
 
 ### 5. Conclusion: Maximum Trust, Maximum Efficiency
 
-Through strategic collaboration and automated systems, Xylo provides a best-in-class asset validation framework:
+Through strategic collaboration and automated systems, XYLO provides a best-in-class asset validation framework:
 
 * Rapid and reliable global asset evaluations
 * Independent audits to guarantee transparency
 * Smart contract–based automation to reduce risk and cost
 * Full on-chain traceability of all evaluation data
 
-These strengths make Xylo’s tokenization model not only secure and scalable but also trusted by institutions and investors alike.
+These strengths make XYLO’s tokenization model not only secure and scalable but also trusted by institutions and investors alike.

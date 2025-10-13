@@ -4,7 +4,7 @@
 
 ## 1. Introduction to XLT
 
-XLT is the native governance and utility token of the Xylo ecosystem, designed to facilitate participation in RWA (Real World Asset) investments. While it can be freely traded on multiple exchanges, its core purpose lies in enabling early access to high-quality RWA offerings via the Xylo Launchpad.
+XLT is the native governance and utility token of the XYLO ecosystem, designed to facilitate participation in RWA (Real World Asset) investments. While it can be freely traded on multiple exchanges, its core purpose lies in enabling early access to high-quality RWA offerings via the XYLO Launchpad.
 
 ### 1-1. Token Address
 
@@ -23,13 +23,13 @@ XLT is the native governance and utility token of the Xylo ecosystem, designed t
 
 ### 2-2. Launchpad Access
 
-* XLT holders gain exclusive access to the Xylo RWA Launchpad.
+* XLT holders gain exclusive access to the XYLO RWA Launchpad.
 * Early participants can invest in high-potential RWA assets before they reach public markets.
 * Asset issuers are required to pay listing and tokenization fees in XLT.
 
 ### 2-3. XLT-to-XUSD Conversion for Investment
 
-* To invest in RWA offerings, users must convert XLT into XUSD, Xylo’s stablecoin.
+* To invest in RWA offerings, users must convert XLT into XUSD, XYLO’s stablecoin.
 * All Launchpad subscriptions are conducted exclusively in XUSD.
 
 ### 2-4. Deflationary Burn Mechanism

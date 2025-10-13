@@ -1,6 +1,6 @@
 # XLT Overview
 
-XLT is the foundational token of the Xylo ecosystem, built to support the digital transformation of real-world assets. More than just a utility token, XLT serves as a store of value, liquidity balancer, and a scarcity-enhancing asset through its deflationary design.
+XLT is the foundational token of the XYLO ecosystem, built to support the digital transformation of real-world assets. More than just a utility token, XLT serves as a store of value, liquidity balancer, and a scarcity-enhancing asset through its deflationary design.
 
 Design Principles:
 

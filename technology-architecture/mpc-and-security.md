@@ -6,7 +6,7 @@ description: Innovative Security for the Age of RWA Tokenization
 
 ## 1. Overview
 
-Your digital assets are more than just data—they represent your future. At Xylo, we recognize this responsibility. Through our RWA tokenization platform and launchpad, we enable access to real-world value while prioritizing wallet security and asset integrity.
+Your digital assets are more than just data—they represent your future. At XYLO, we recognize this responsibility. Through our RWA tokenization platform and launchpad, we enable access to real-world value while prioritizing wallet security and asset integrity.
 
 To achieve this, we deploy industry-leading technologies including:
 

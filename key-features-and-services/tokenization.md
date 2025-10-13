@@ -1,6 +1,6 @@
 # Tokenization
 
-Xylo’s RWA tokenization technology enables the digital transformation of real-world assets—such as real estate, bonds, fine art, and commodities—into blockchain-based tokens. This process helps resolve inefficiencies in traditional financial markets and facilitates easier, faster global access to tangible asset investments.&#x20;
+XYLO’s RWA tokenization technology enables the digital transformation of real-world assets—such as real estate, bonds, fine art, and commodities—into blockchain-based tokens. This process helps resolve inefficiencies in traditional financial markets and facilitates easier, faster global access to tangible asset investments.&#x20;
 
 Our tokenization process combines private (internal) and public (external) blockchains to ensure secure, transparent, and scalable asset lifecycle management across **5 key phases**:
 
@@ -12,9 +12,9 @@ Our tokenization process combines private (internal) and public (external) block
 * Key metrics include market value, ownership validation, legal compliance, profitability, and risk analysis.
 * All valuation data is immutably recorded on the internal blockchain for transparency and auditability.
 
-### 2. Subscription and Allocation (via Xylo Launchpad)
+### 2. Subscription and Allocation (via XYLO Launchpad)
 
-* Investors can subscribe to RWA offerings through the Xylo Launchpad.
+* Investors can subscribe to RWA offerings through the XYLO Launchpad.
 * The platform allows issuers to define investment amounts, eligibility criteria, and allocation rules.
 * Smart contracts ensure fair, automated allocation with full traceability.
 

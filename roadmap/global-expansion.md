@@ -1,6 +1,6 @@
 # Global Expansion
 
-Xylo was launched with a clear mission: to transform real-world assets (RWAs) into blockchain-based investment products. By connecting asset owners with global investors, Xylo is reshaping how value is stored, transferred, and monetized in the digital age. Following a successful initial launch, we are expanding our focus to global markets through strategic partnerships, crypto alliances, and a complementary ecosystem for RWA token adoption.
+XYLO was launched with a clear mission: to transform real-world assets (RWAs) into blockchain-based investment products. By connecting asset owners with global investors, XYLO is reshaping how value is stored, transferred, and monetized in the digital age. Following a successful initial launch, we are expanding our focus to global markets through strategic partnerships, crypto alliances, and a complementary ecosystem for RWA token adoption.
 
 ## 1. International Institutional Partnerships
 
@@ -70,6 +70,6 @@ We will onboard global RWA experts who review new listings and provide on-chain 
 
 ***
 
-_**Xylo is not just a tokenization platform. We are building the global liquidity hub for real-world assets, where institutions, individuals, and crypto-native communities converge to redefine digital finance.**_
+_**XYLO is not just a tokenization platform. We are building the global liquidity hub for real-world assets, where institutions, individuals, and crypto-native communities converge to redefine digital finance.**_
 
 > “Trust the Real Value. Expand the Real World.” — Xylo
