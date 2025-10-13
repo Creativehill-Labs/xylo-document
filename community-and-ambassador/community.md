@@ -6,13 +6,13 @@ Access the embedded link, click the caption below the logo."
 
 {% embed url="https://www.xylo.world/" %}
 
-{% embed url="https://play.google.com/store/apps/details?id=com.creativehill.xyloplus" %}
-
 {% embed url="https://www.youtube.com/@XyloWorld" %}
 
 {% embed url="http://pf.kakao.com/_Kjvxin" %}
 
 {% embed url="https://t.me/xyloworld" %}
+
+{% embed url="https://discord.gg/6fnr7RGfDP" %}
 
 <details>
 
