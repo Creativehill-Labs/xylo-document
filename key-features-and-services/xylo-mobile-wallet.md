@@ -57,6 +57,6 @@ The XYLO Mobile App is a secure, intuitive gateway for managing digital assets, 
 
 ***
 
-_**The Xylo Mobile App is a comprehensive solution that combines user-friendly design, robust security, and direct access to real-world investments. It empowers users to manage digital assets with confidence, participate in exclusive RWA offerings, and bring blockchain utility into real life.**_
+_**The XYLO Mobile App is a comprehensive solution that combines user-friendly design, robust security, and direct access to real-world investments. It empowers users to manage digital assets with confidence, participate in exclusive RWA offerings, and bring blockchain utility into real life.**_
 
 ***
