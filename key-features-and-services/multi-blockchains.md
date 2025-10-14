@@ -16,7 +16,7 @@ XYLO leverages a hybrid blockchain model—combining the speed and control of a 
 
 * **Global liquidity:** Enables trading across various public chains and marketplaces.
 * **Web3 & DeFi integration:** RWA tokens can interact with lending platforms, liquidity pools, and staking protocols.
-* **Retail & institutional participation:** Open access through CEXs and DEXs invites a wider investor base.
+* **Retail & Institutional participation:** Open access through CEXs and DEXs invites a wider investor base.
 
 ***
 
