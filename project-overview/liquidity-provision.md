@@ -18,7 +18,7 @@ One of the central goals of XYLO is to bring blockchain-based liquidity into the
 
 ### 1. Token Creation and Trading
 
-* Physical assets are registered and tokenized on the blockchain
+* Physical assets are registered and tokenized on the blockchain.
 * Investors can buy and sell these tokens seamlessly within a decentralized environment.
 * Ownership and transaction history are securely maintained on-chain.
 
