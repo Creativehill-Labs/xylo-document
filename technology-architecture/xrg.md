@@ -9,7 +9,7 @@ hidden: true
 
 XRG is XYLO's proprietary technology designed to fully represent the rights structures of Real-World Assets (RWAs) as on-chain tokens. This framework is engineered to encompass a wide range of assets, from tangible ones like real estate to intangible business rights such as music IP, K-POP group revenues, and casino licenses. The core idea is to construct the asset's rights structure as a hierarchical NFT graph, integrating modules for Digital Identity (DID), real-time royalty streaming, and compliance.
 
-An analysis of XRG's components is as follows:
+&#x20;<mark style="background-color:green;">An analysis of XRG's components is as follows:</mark>&#x20;
 
 ### **1-1. IP Passport**
 
