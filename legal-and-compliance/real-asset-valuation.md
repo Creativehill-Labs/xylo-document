@@ -4,7 +4,7 @@
 
 Tokenizing real-world assets (RWAs) unlocks liquidity—but only if the underlying asset is legal, accurately valued, and verifiable. Without trust in the real asset, tokenized versions lose credibility.
 
-Xylo applies a rigorous evaluation process built on **3 key principles:**
+XYLO applies a rigorous evaluation process built on **3 key principles:**
 
 * **Legality:** Legal ownership and rights verification 
 * **Objectivity:** Third-party valuation and appraisal 

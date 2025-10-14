@@ -15,7 +15,7 @@ XYLO is building a comprehensive blockchain-based investment infrastructure for 
 
 #### <mark style="background-color:purple;">2. XLT Pre-Sale (Public Offering)</mark>
 
-* **Platform:** Xylo website & authorized partners
+* **Platform:** XYLO website & authorized partners
 * **Participants:** Accredited individuals and institutions
 * **Allocation:** \~8% of total supply
 * **Vesting:** 12-month lock-up post listing, gradual release
