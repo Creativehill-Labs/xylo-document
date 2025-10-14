@@ -2,9 +2,7 @@
 
 ## XYLO Coin (XLT)
 
-<div align="left"><figure><img src="../.gitbook/assets/xylo coin 3d.png" alt="" width="188"><figcaption></figcaption></figure></div>
-
-<div align="left"><figure><img src="../.gitbook/assets/coin logo black (2).png" alt="" width="180"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/XYLO 토큰 3d.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/XLT.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 
 
